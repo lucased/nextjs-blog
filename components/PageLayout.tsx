@@ -1,18 +1,23 @@
-import { Flex, Box } from "@chakra-ui/core";
-import Header from "./Header";
-import Navigation from "./Navigation";
-import Footer from "./Footer";
+/** @jsx jsx */
+import { Flex, Box, jsx } from "theme-ui";
 
-const PageLayout = ({ title, children }) => {
+const PageLayout = ({ children }) => {
   return (
-    <Box>
-      <Flex flexDirection="column" alignItems="center" margin={4}>
-        <Header title={title} />
-        <Navigation />
+    <Flex
+      sx={{
+        justifyContent: "center",
+        alignItems: "center",
+      }}
+    >
+      <Box
+        sx={{
+          width: "600px",
+          margin: 4
+        }}
+      >
         {children}
-        <Footer />
-      </Flex>
-    </Box>
+      </Box>
+    </Flex>
   );
 };
 

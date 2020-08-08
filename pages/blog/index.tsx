@@ -11,7 +11,7 @@ const Blog: NextPage<{
   }[];
 }> = (props) => {
   return (
-    <PageLayout title="Blog">
+    <PageLayout>
       <Box>
         <Flex flexDirection="column" alignItems="center">
           <Heading as="h2" size="md" marginY="1rem">Table Of Contents</Heading>

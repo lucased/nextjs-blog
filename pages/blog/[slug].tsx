@@ -1,11 +1,10 @@
-import { useRouter } from "next/router";
 import { GetStaticPaths, GetStaticProps, NextPage } from "next";
 import { Text, Flex } from "@chakra-ui/core";
 import PageLayout from "../../components/PageLayout";
 
 const Slug = ({ title, text }) => {
   return (
-    <PageLayout title={title}>
+    <PageLayout>
       <Flex margin={4} flexDirection="column">
         <Text>{text}</Text>
       </Flex>

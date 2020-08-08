@@ -1,10 +1,30 @@
-import { Heading } from "@chakra-ui/core";
+/** @jsx jsx */
+import { Flex, jsx } from "theme-ui";
 
-const Header = ({ title }) => {
+const Header = () => {
   return (
-    <Heading as="h1" size="2xl" margin="2rem">
-      {title}
-    </Heading>
+    <Flex
+      sx={{
+        flexDirection: 'column',
+        justifyContent: "center",
+        alignItems: 'center'
+      }}
+    >
+      <div
+        sx={{
+          variant: "styles.header.title",
+        }}
+      >
+        DUNE
+      </div>
+      <p
+        sx={{
+          variant: "styles.header.description",
+        }}
+      >
+        Terminology
+      </p>
+    </Flex>
   );
 };
 

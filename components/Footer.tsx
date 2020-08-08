@@ -1,11 +1,16 @@
 import NextLink from "next/link";
-import { Link, Text } from "@chakra-ui/core";
+/** @jsx jsx */
+import { Link, Text, jsx } from "theme-ui";
 
 const Footer = () => {
   return (
     <NextLink href="/">
-      <Link marginY={2}>
-        <Text fontStyle="italic">Go back home</Text>
+      <Link
+        sx={{
+          margin: 2,
+        }}
+      >
+        Go back home
       </Link>
     </NextLink>
   );
