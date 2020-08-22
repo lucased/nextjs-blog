@@ -24,6 +24,6 @@
   "include": [
     "next-env.d.ts",
     "**/*.ts",
-    "**/*.tsx", "pages/user/[id].tsx", "components/Search/Search.js"
+    "**/*.tsx", "pages/user/[id].tsx", "components/Search/Search.tsx", "pages/api/index.js"
   ]
 }

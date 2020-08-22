@@ -2,7 +2,7 @@
 import { jsx, Box } from "theme-ui";
 import SearchIcon from "./SearchIcon";
 
-const SearchInput = ({ setQuery }) => {
+const SearchInput = ({ setSearchTerm }) => {
   return (
     <Box
       mt={4}
@@ -17,7 +17,7 @@ const SearchInput = ({ setQuery }) => {
         }}
         type="text"
         placeholder="Search..."
-        onChange={(e) => setQuery(e.target.value)}
+        onChange={(e) => setSearchTerm(e.target.value)}
       />
       <Box
         sx={{

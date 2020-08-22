@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import { Flex, Box, jsx } from "theme-ui";
 
-const PageLayout = ({ children }) => {
+const PageLayout = ({ children, width = 600 }) => {
   return (
     <Flex
       sx={{
@@ -11,7 +11,7 @@ const PageLayout = ({ children }) => {
     >
       <Box
         sx={{
-          width: "600px",
+          width,
           margin: 4
         }}
       >

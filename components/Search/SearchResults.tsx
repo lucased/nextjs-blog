@@ -1,7 +1,5 @@
 /** @jsx jsx */
-import React, { useRef, useEffect } from "react";
-import { jsx, Box, Flex } from "theme-ui";
-import useInfiniteScroll from "../useInfiniteScroll";
+import { jsx, Box } from "theme-ui";
 
 const Result = ({ result }) => {
   return (
@@ -9,7 +7,7 @@ const Result = ({ result }) => {
       sx={{
         fontSize: [2, 3],
         fontWeight: 100,
-        color: "#DEC185",
+        color: "#b9a170",
         letterSpacing: "1.5px",
       }}
     >
@@ -18,6 +16,7 @@ const Result = ({ result }) => {
           display: "inline-block",
           fontFamily: "heading",
           color: "primary",
+          fontSize: 4,
           fontWeight: 4,
         }}
       >
@@ -28,15 +27,7 @@ const Result = ({ result }) => {
   );
 };
 
-const SearchResults = ({ results, getMore }) => {
-  const ref = useRef(null);
-  const [loadMore, setLoadMore] = useInfiniteScroll(ref);
-
-  useEffect(() => {
-    console.log('load more')
-    getMore(loadMore);
-    setLoadMore(false);
-  }, [loadMore]);
+const SearchResults = ({ results }) => {
 
   return (
     <Box
@@ -47,14 +38,13 @@ const SearchResults = ({ results, getMore }) => {
           position: "absolute",
           bottom: "0",
           width: "100%",
-          height: "60px",
+          height: "20px",
           background: (theme) =>
             `linear-gradient(rgba(29, 39, 74, 0.01), ${theme.colors.background})`,
         },
       }}
     >
       <Box
-        ref={ref}
         mt={4}
         sx={{
           width: "100%",
@@ -86,7 +76,7 @@ const SearchResults = ({ results, getMore }) => {
         }}
       >
         {results.map((result) => {
-          return <Result key={result.objectID} result={result} />;
+          return <Result key={result._id} result={result} />;
         })}
       </Box>
     </Box>

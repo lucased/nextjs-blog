@@ -22,7 +22,7 @@ const Header = () => {
           variant: "styles.header.description",
         }}
       >
-        Terminology
+        Terminology of the Imperium
       </p>
     </Flex>
   );
