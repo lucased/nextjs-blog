@@ -1,3 +1,4 @@
+import React from "react";
 /** @jsx jsx */
 import { jsx, Box } from "theme-ui";
 
@@ -27,8 +28,7 @@ const Result = ({ result }) => {
   );
 };
 
-const SearchResults = ({ results }) => {
-
+const SearchResults = ({ data }) => {
   return (
     <Box
       sx={{
@@ -75,7 +75,7 @@ const SearchResults = ({ results }) => {
           },
         }}
       >
-        {results.map((result) => {
+        {data.results.map((result) => {
           return <Result key={result._id} result={result} />;
         })}
       </Box>

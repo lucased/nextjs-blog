@@ -1,0 +1,2830 @@
+[
+    {
+        "name": "Aba",
+        "description": "Loose, usually black robe worn by Fremen women and Bene Gesserit Sisters."
+    },
+    {
+        "name": "Abu 'd Dhur or Abu Dhur",
+        "description": "the Father of the Indefinite Roads of Time, possibly in Fremen mythology or Orange Catholicism."
+    },
+    {
+        "name": "Ach",
+        "description": "a worm-steersman's term for a left turn."
+    },
+    {
+        "name": "Abomination",
+        "description": "Bene Gesserit term for one who acquires full consciousness in the womb as a result of being exposed to the spice agony."
+    },
+    {
+        "name": "Adab",
+        "description": "the demanding memory that comes upon you itself."
+    },
+    {
+        "name": "Adept",
+        "description": "a person who has entered one of the Great Schools, for example  Bene Gesserit or Ginaz Swordmasters and is very skilled or has obtained a lot of training or knowledge but is not yet necessarily a Reverend Mother or master."
+    },
+    {
+        "name": "Advocate General",
+        "description": "an officer of the imperial court who oversees the admission of audiences and similar tasks."
+    },
+    {
+        "name": "Ajidamal (or Amal)",
+        "description": "Disastrously-flawed synthetic spice melange created by the Tleilaxu's Project Amal before the process of producing spice in axlotl tanks was perfected."
+    },
+    {
+        "name": "Akarso",
+        "description": "a plant native to Sikun ( of 70 Ophiuchi A ) characterized by oblong leaves. Its green and white stripes indicate the constant multiple condition of parallel active and dormant chlorophyll regions."
+    },
+    {
+        "name": "Akkad",
+        "description": "one of the months on Arrakis and the new Atreides Calendar."
+    },
+    {
+        "name": "Alam al-Mithal",
+        "description": "the mystical 'world of similitudes' where all physical limitations are removed."
+    },
+    {
+        "name": "Al-Lat",
+        "description": "mankind's original sun; by usage: any planet's primary."
+    },
+    {
+        "name": "Al-Mutakallim",
+        "description": "one of the names of God in Zensunni faith."
+    },
+    {
+        "name": "Al Ourouba",
+        "description": "the mythical home of the Zensunni on Earth"
+    },
+    {
+        "name": "Alia Cult",
+        "description": "an cult of Gammu which was oppressed by Leto Atreides II Fish Speakers.Possibly a remnant or revival of Alias Priesthood."
+    },
+    {
+        "name": "Alias Priesthood",
+        "description": "a priestly organisation formed by Alia after her brothers alleged death to secure her position and to push back the influence of the Qizarate.Alias priests were partially recruited from the Quizarate though."
+    },
+    {
+        "name": "Amazons",
+        "description": "a mythical tribe or warrior-women on old earth, later applied to Alias all female guard and Letos Fishspeakers."
+    },
+    {
+        "name": "Ambiel",
+        "description": "a light fabric used for fine clothing"
+    },
+    {
+        "name": "Ampoliros",
+        "description": "the legendary \"Flying Dutchman\" of space."
+    },
+    {
+        "name": "Amtal or Amtal Rule",
+        "description": "a common rule on primitive worlds under which something is tested to determine its limits or defects. Commonly: testing to destruction."
+    },
+    {
+        "name": "Anti-fatigue Pills",
+        "description": "a potent stimulans used by the Military"
+    },
+    {
+        "name": "Aql",
+        "description": "the test of reason. Originally, the \"Seven Mystic Questions\" beginning: \"Who is it that thinks?\""
+    },
+    {
+        "name": "Arcana",
+        "description": "the Bene Gesserit secret inner teachings."
+    },
+    {
+        "name": "Arifa",
+        "description": "the fremen term for \"Judge\".Used as a title of their leaders by the tribe of Sietch Jacurutu."
+    },
+    {
+        "name": "Armored Screen",
+        "description": "a defensive construction similar to a big protective shield."
+    },
+    {
+        "name": "Arrakeen",
+        "description": "the first settlement on Arrakis;  long-time seat of planetary government."
+    },
+    {
+        "name": "Arrakis",
+        "description": "the planet known as Dune; third planet of Canopus."
+    },
+    {
+        "name": "Assassin's Handbook",
+        "description": "third-century compilation of poisons commonly used in a War of Assassins. Later expanded to include those deadly devices permitted under the Guild Peace and the Great Convention."
+    },
+    {
+        "name": "Assyria",
+        "description": "an ancient realm on old earth.Home to enemies of the Bene Gesserit's ancestors."
+    },
+    {
+        "name": "Auliya",
+        "description": "in the Zensunni Wanderers' religion, the female at the left hand of God; God's handmaiden."
+    },
+    {
+        "name": "Aumas",
+        "description": "poison administered in food. ( Specifically: poison in solid food. ) In some dialects: Chaumas."
+    },
+    {
+        "name": "Auqaf",
+        "description": "the military arm of the Church of Muad'dib in opposition to the Hajj."
+    },
+    {
+        "name": "Axlotl tank",
+        "description": "Biological tank in which gholas and melange were be produced, primarily by the Bene Tleilax.In truth the female variant of the Tleilaxu race."
+    },
+    {
+        "name": "Ayat",
+        "description": "the signs of life. ( See Burhan. )"
+    },
+    {
+        "name": "Ayil",
+        "description": "the day of the first light on Arrakis and later the day of the Kwisatz Haderach."
+    },
+    {
+        "name": "Lake Azrak",
+        "description": "a gypsum plain on Arrakis, west of Jacurutu.The remnant of a prehistoric ocean."
+    },
+    {
+        "name": "Bahada",
+        "description": "a great fissue or crack in rock"
+    },
+    {
+        "name": "Bahr bela ma",
+        "description": "“the ocean without water”  a name of the open desert of Arrakis"
+    },
+    {
+        "name": "Bakka",
+        "description": "in Fremen legend, the weeper who mourns for all mankind."
+    },
+    {
+        "name": "Baklawa",
+        "description": "A type of pastry made with date syrup."
+    },
+    {
+        "name": "Baliset",
+        "description": "Nine-stringed musical instrument, lineal descendant of the zithra, tuned to the Chusuk scale and played by strumming. A favorite instrument of Imperial troubadours."
+    },
+    {
+        "name": "Barachan",
+        "description": "an elevated shifting sand dune."
+    },
+    {
+        "name": "Baradye Pistol",
+        "description": "a static-charge dust gun developed on Arrakis for laying down a large dye marker area on sand."
+    },
+    {
+        "name": "Baraka",
+        "description": "a living holy man."
+    },
+    {
+        "name": "Bashar",
+        "description": "(often Colonel Bashar): an officer of the Sardaukar a fractional point above Colonel in the standard military classification. Rank created for military ruler of a planetary subdistrict. ( Bashar of the Corps is a title reserved strictly for military use.)"
+    },
+    {
+        "name": "Battle Language",
+        "description": "any special language if restricted etymology developed for clear-speech communication in warfare."
+    },
+    {
+        "name": "Bedwine",
+        "description": "a nomadic desert-dweller; usually referring to the Ichwan Bedwine, the brotherhood of all Fremen on Arrakis."
+    },
+    {
+        "name": "Behemoth",
+        "description": "in Fremen belief a demon, a great Sandworm.Possibly also an archaic type of ship or sea-monster."
+    },
+    {
+        "name": "Bejato",
+        "description": "a leaf-plant  native to Arrakis."
+    },
+    {
+        "name": "Bela Tegeuse",
+        "description": "fifth planet of Kuentsing: third stopping place of the Zensunni forced migration."
+    },
+    {
+        "name": "Bene Gesserit",
+        "description": "the ancient school of mental and physical training established primarily for female students."
+    },
+    {
+        "name": "Beret",
+        "description": "a soft, round, flat-crowned woven-hat, worn by the Sardaukar and imperial ladies-in-waiting."
+    },
+    {
+        "name": "Berserker",
+        "description": "Death commandos of the fishspeakers.Usually Individuals which were punished for having made a mistake were ordered to commit Berserker or suicide missions."
+    },
+    {
+        "name": "B.G.",
+        "description": "idiomatic for Bene Gesserit except when used with a date. With a date it signifies Before Guild and identifies the Imperial Dating system based on the genesis of the Spacing Guild's monopoly."
+    },
+    {
+        "name": "Bene Sherk",
+        "description": "a scattering of newer settlements east of Jacurutu and northeast of the Tanzerouft."
+    },
+    {
+        "name": "Bene Tleilax (or Tleilaxu)",
+        "description": "Secretive and powerful patriarchal race known for their genetic manipulation technologies."
+    },
+    {
+        "name": "Bhotani Jib",
+        "description": "see Chakobsa."
+    },
+    {
+        "name": "Bi-La Kaifa",
+        "description": "Amen. (Literally: \"Nothing further need be explained.\")"
+    },
+    {
+        "name": "Bicouros of Shaitan",
+        "description": "\"a lazy missionary of the devil\".Somebody who serves an evil purpose out of lazyness or to achieve privileges."
+    },
+    {
+        "name": "biological invasions",
+        "description": "in context of military, biological warfare agents.Used during the Jihad by both sides.Caused post-war maladies such as the \"spitting disease\"."
+    },
+    {
+        "name": "Bindu",
+        "description": "relating to the human nervous system, especially to nerve training. Often expressed as Bindu-nervature."
+    },
+    {
+        "name": "Bindu Suspension",
+        "description": "a special form of catalepsis, self-induced."
+    },
+    {
+        "name": "Biyan",
+        "description": "\"White Lands\", another name for the great Gypsum plain south of the Habbanya Erg."
+    },
+    {
+        "name": "Bled",
+        "description": "the flat and open desert of Arrakis."
+    },
+    {
+        "name": "Body temperature pills",
+        "description": "pills used by Outworlders on Arrakis to hold the body temperature low, especially people who  did use cheap stillsuit imitates instead of fremen ones."
+    },
+    {
+        "name": "Book of Kreos",
+        "description": "a Fremen collection of Zensunni Sayings."
+    },
+    {
+        "name": "Book Leto",
+        "description": "a collection of sayings and comments by Leto II  ascribed to Harq al-Ada."
+    },
+    {
+        "name": "Bourka",
+        "description": "insulated mantle worn by Fremen in the open desert."
+    },
+    {
+        "name": "Bravos",
+        "description": "a houses armed retainers or Assassins."
+    },
+    {
+        "name": "Bu Ji",
+        "description": "Zensunni Philosopher from Fremen tradition."
+    },
+    {
+        "name": "Burhan",
+        "description": "the proofs of life. (Commonly: the ayat and burhan of life.)"
+    },
+    {
+        "name": "Bureau of faith",
+        "description": "A name of the Royal inquisition under Leto II."
+    },
+    {
+        "name": "Burseg",
+        "description": "Commanding general of the Sardaukar."
+    },
+    {
+        "name": "Butlerian Jihad",
+        "description": "The epic crusade by mankind against Thinking Machines. Also called The Great Revolt."
+    },
+    {
+        "name": "Cadelam",
+        "description": "originally a Fremen tribe from Sietch Abbir, during the shortlived reign of Alia an uprising Family on the verge of becoming a House Minor."
+    },
+    {
+        "name": "Caid",
+        "description": "Sardaukar officer rank given to a military official whose duties call mostly for dealings with civilians. Officers of this rank often commanded as military governors over a full planetary district. The rank was above the rank of Bashar but not equal to a Burseg."
+    },
+    {
+        "name": "Caliph",
+        "description": "a ruler of the Muslim world on Old Earth, later used by the Desposyny, the descendants of Leto II."
+    },
+    {
+        "name": "Canto and Respondu",
+        "description": "an invocation rite, part of the panoplia Propheticus of the Missionaria Protectiva."
+    },
+    {
+        "name": "Carryall",
+        "description": "Aircraft used on Arrakis to transport large spice mining, hunting and refining equipment."
+    },
+    {
+        "name": "Caseri",
+        "description": "ruler title, possibly from the times of the Old Empire."
+    },
+    {
+        "name": "Catchtube",
+        "description": "tube of a Stillsuit, connected to the suits catch-pockets."
+    },
+    {
+        "name": "Caveat",
+        "description": "a warning or condition."
+    },
+    {
+        "name": "Cellular restructuring",
+        "description": "Tleilaxu and Ixian term and technique describing the creation of a new human being from another humans basic genetic information, different from a Ghola or a clone.Hwi Noree was created via Cellular restructuring of genetic base material gained from Malky."
+    },
+    {
+        "name": "Chakobsa",
+        "description": "The Language of the Fremen of Arrakis."
+    },
+    {
+        "name": "Catchpocket",
+        "description": "Integral part of Stillsuit and Stilltent that used to contain reclaimed water."
+    },
+    {
+        "name": "Cave of Birds",
+        "description": "a cave in the Habbanya ridge.During the War on arrakis briefly Paul Muad'dibs base of operations."
+    },
+    {
+        "name": "Chaumas",
+        "description": "Poison in solid food as distinguished from poison administered in some other way."
+    },
+    {
+        "name": "Chaumurky",
+        "description": "Poison administered in a drink."
+    },
+    {
+        "name": "Cheops",
+        "description": "a game, also known as pyramid-chess."
+    },
+    {
+        "name": "Cherem",
+        "description": "a brotherhood of hate."
+    },
+    {
+        "name": "CHOAM",
+        "description": "A corporation which essentially controlled the economy of the Known Universe, with shares and directorships determining each House's income and financial leverage."
+    },
+    {
+        "name": "Church of Muad'dib",
+        "description": "The Church or political Organisation of Priests which revered Paul'Muad Dib as Mahdi, Messiah and quasi-godhead, developed from fremen Religion after Paul Atreides supposed death and active until tne reign of Leto II."
+    },
+    {
+        "name": "Chusuk",
+        "description": "the \"Music planet\"."
+    },
+    {
+        "name": "Cibus hood",
+        "description": "a shapeless mask of ixian design, not really making it's wearer invisible, but completely hiding his features, making him fully unrecognizale."
+    },
+    {
+        "name": "Cielago",
+        "description": "a species of bat indigenous to Arrakis."
+    },
+    {
+        "name": "Coan-teen",
+        "description": "The female deathspirit who walks without feet of Fremen mythology.Also a diffaming name used for Alia by her political enemies."
+    },
+    {
+        "name": "Code Atreides",
+        "description": "The House Atreides laws and codex of honor and conduct."
+    },
+    {
+        "name": "Cogitor",
+        "description": "One of several ancient philosophers whose brains were transplanted into fluid-filled canisters so that they could analyze the universe indefinitely."
+    },
+    {
+        "name": "Coif",
+        "description": "a close-fitting cap worn by the Bene Gesserit."
+    },
+    {
+        "name": "Cold Air Walls",
+        "description": "artificial boundary created by ixian machines, enclosing the Sareer."
+    },
+    {
+        "name": "ComNet or Communinet",
+        "description": "planetary communications network."
+    },
+    {
+        "name": "Cone of silence",
+        "description": "a field or zone wherein the sound of the human voice was electronically distorted so that recording and amplifying devices could not reproduce it effectively or clearly."
+    },
+    {
+        "name": "Coriolis storm",
+        "description": "Sandstorms on Arrakis in which winds across the open flatlands were amplified by the planet's own revolutionary motion to reach speeds up to 700 kilometres per hour."
+    },
+    {
+        "name": "Corrin",
+        "description": "a planet near the star Sigma Draconis which gave the name the Battle of Corrin and the House Corrino."
+    },
+    {
+        "name": "Corrin, Battle of",
+        "description": "the Battle which led to House Corrino ascending to the Throne."
+    },
+    {
+        "name": "Cousines or Imperial Cousines",
+        "description": "Household members related to the emperor."
+    },
+    {
+        "name": "Crusher",
+        "description": "Military space vessels composed of many smaller vessels locked together and designed to fall on an enemy position, crushing it."
+    },
+    {
+        "name": "Cryologic tank",
+        "description": "containers for cryptoprezervation of dead human flesh."
+    },
+    {
+        "name": "The Crypt",
+        "description": "a section of Leto Atreides II citadel in which his Duncan Idaho gholas and deceased members of his Atreides-breeding program were entombed."
+    },
+    {
+        "name": "Crysknife",
+        "description": "Weapon made from the tooth of a sandworm from Arrakis."
+    },
+    {
+        "name": "Cueshma",
+        "description": "fremen term for a \"twenty-klick wind\"."
+    },
+    {
+        "name": "Cutterray",
+        "description": "Short-range version of a lasgun, primarily used as a cutting tool."
+    },
+    {
+        "name": "Cymek",
+        "description": "Type of cyborg, or machine-human hybrid, used during the Butlerian Jihad."
+    },
+    {
+        "name": "Dao",
+        "description": "the terran predecessor of the Tau.Also referring to the Bene gesserit prana-bindu dormancy-trance."
+    },
+    {
+        "name": "Dar-es-Balat",
+        "description": "Ancient place, one of the first no-chambers which contained the Lost Journey of Leto Atreides II the God-Emperor. Later in Heretics of Dune it became a museum in the care of Priesthood of the Divided God."
+    },
+    {
+        "name": "Dar al-hikman",
+        "description": "a School of religious translation or interpretation."
+    },
+    {
+        "name": "Dark things",
+        "description": "referring to discarded pre-ecumenic thoughts and writings.Also the Bene Gesserit Arcana."
+    },
+    {
+        "name": "Death Commandos",
+        "description": "a type of military who is alltime ready and prepared to give up his life in a suicidal mission or attack.Especially referring to the Sardaukar and Fedaykin."
+    },
+    {
+        "name": "Death tripod",
+        "description": "originally, the tripod upon which desert executioners hanged their victims. By usage: the three members of a cherem sworn to destroy their enemy."
+    },
+    {
+        "name": "Deathstill",
+        "description": "Fremen device used to extract all moisture from a living or dead human or creature."
+    },
+    {
+        "name": "Demibrothers",
+        "description": "Demibrothers are the biological sons of different Concubines in the same household and certified as having the same father."
+    },
+    {
+        "name": "Demiurge",
+        "description": "a person who stands next to God.In Fremen mythology the Shai-Hulud was identified with the Demiurge.Paul Atreides likened himself to the Demiurge, while Leto seems to have adressed or interpreted his father's reign as the Demiurge."
+    },
+    {
+        "name": "Derch",
+        "description": "\"right turn\".A command among the Sandriders."
+    },
+    {
+        "name": "Desert of Zan",
+        "description": "a place from Zenzunni Mythology, place of their Zensunni ancestors legendary first trial."
+    },
+    {
+        "name": "Desposyni",
+        "description": "the Desposyni were the descendants of Paul Atreides and their caliphate in the oral tradition of Arrakis."
+    },
+    {
+        "name": "Dew collector or dew precipitator",
+        "description": "A small, egg-shaped device that uses a special surface to collect morning dew on the desert planet of Arrakis."
+    },
+    {
+        "name": "Dew gatherer",
+        "description": "workers who reap dew from the plants of Arrakis, using a scythelike dew reaper."
+    },
+    {
+        "name": "Dhyana",
+        "description": "Dhyana was a term for a spice-induced internal reality such as that grasped by Leto Atreides on his flight through the Tanzerouft."
+    },
+    {
+        "name": "Dictum familia",
+        "description": "the rule of the Great Convention which prohibited the slaying of a royal person or member of a Great House by informal treachery. The rule set up the formal outline, limits the means of assassination."
+    },
+    {
+        "name": "Digit mill",
+        "description": "an Ixian apparition used to sensitize and strenghten fingers or toes."
+    },
+    {
+        "name": "Dishdasha",
+        "description": "a long-sleeved garment similar to a robe worn over a stillsuit."
+    },
+    {
+        "name": "Disputation of Armistead and Leandgrah",
+        "description": "a mummer's play popular in Arrakeen in 10,216."
+    },
+    {
+        "name": "Distrans",
+        "description": "Device for producing a temporary neural imprint on the nervous system of Chiroptera (bats) or birds.  The creature's normal cry then carried the message imprint which could be sorted from that carrier wave by another distrans."
+    },
+    {
+        "name": "Divan",
+        "description": "a piece of couch-like sitting furniture or box-spring based bed."
+    },
+    {
+        "name": "Djeballa",
+        "description": "a kind of hooded robe of the Fremen worn with a mouth-seal."
+    },
+    {
+        "name": "Djedida",
+        "description": "the Djedidas were new-towns built after the rise of Muad'dib.They were built on foundations of exposed basalt and consisted of a townhall, lesser buildings, mushtamal-gardens and walls of brick or mud."
+    },
+    {
+        "name": "Doorseal",
+        "description": "A portable plastic seal used in temporary camps to keep moisture from escaping."
+    },
+    {
+        "name": "Drugs",
+        "description": "all substances which has a physiological effect when ingested or otherwise introduced into the body."
+    },
+    {
+        "name": "Drum sand",
+        "description": "a composition of sand compaction producing a rhythmical beat after being impacted."
+    },
+    {
+        "name": "Dump box",
+        "description": "unpiloted cargo containers designed to dump material directly from low orbit onto a planet's surface."
+    },
+    {
+        "name": "Dune hawk",
+        "description": "a type of Desert hawk native to Arrakis.Also a type of Flyer or Ornithopter."
+    },
+    {
+        "name": "Dune men",
+        "description": "a colloquial term used to describe men who worked among the sand dunes of the planet Arrakis collecting the Spice Melange, the sand workers and spice hunters."
+    },
+    {
+        "name": "Dur",
+        "description": "a jungle planet in the Scattering."
+    },
+    {
+        "name": "Dust chasm",
+        "description": "any deep crevasse or depression on the desert of Arrakis that has been filled with dust.Also a weather phenomenon."
+    },
+    {
+        "name": "D-Wolf",
+        "description": "Wolf-like creatures bred by God Emperor to guard the Forbidden Forest around his Keep. The creatures were said to be a hybrid of gaze hounds and wolves."
+    },
+    {
+        "name": "Ecaz",
+        "description": "the fourth planet orbiting Alpha centauri B.Home to several exotic plants such as Sapho, Elacca , Fogwood, and of the hufuf  vine ."
+    },
+    {
+        "name": "Ecumenism",
+        "description": "the unity among religions."
+    },
+    {
+        "name": "Ego-likeness",
+        "description": "An extremely detailed portrait played through a shigawire projector capable of showing subtle movements said to convey the ego essence of a one or more persons."
+    },
+    {
+        "name": "Egret",
+        "description": "a long extinct species of bird with pink plumage."
+    },
+    {
+        "name": "Elacca drug",
+        "description": "Narcotic formed by burning the blood-grained elacca wood of Ecaz. The drug's effect was to remove most of the will to self-preservation; commonly used to prepare slave gladiators for the ring."
+    },
+    {
+        "name": "Elacca rope",
+        "description": "rope made of the fine fibres of elacca wood."
+    },
+    {
+        "name": "Elacca whip",
+        "description": "a weapon made of Elacca rope, used by the fishspeakers."
+    },
+    {
+        "name": "El-sayal",
+        "description": "fremen term meaning \"the 'rain of sand\"."
+    },
+    {
+        "name": "Elf-silk",
+        "description": "a very fine and exquisite silk such as preferred by the great houses for clothing."
+    },
+    {
+        "name": "Enfeil",
+        "description": "a Planet conquered during Muad'dib's Jihad."
+    },
+    {
+        "name": "Engineering",
+        "description": "The complex manipulation of human society.Genetic,Political or Religious engineering."
+    },
+    {
+        "name": "Erg",
+        "description": "a broad, flat area of desert covered with wind-swept sand with little or no vegetative cover."
+    },
+    {
+        "name": "Evermind",
+        "description": "Pseudonym of Omnius."
+    },
+    {
+        "name": "Face dancers",
+        "description": "Tleilaxu created creatures able to mimic other humans exactly and go undetected by all known means."
+    },
+    {
+        "name": "Face flaps",
+        "description": "parts of a stillsuit's face mask, protecting it's wearer from fine dust."
+    },
+    {
+        "name": "Fai",
+        "description": "the \"water tribute\", or principal form of taxation on Arrakis in the 102nd century BG."
+    },
+    {
+        "name": "False Wall West",
+        "description": "a curving arm of rock that formed a barrier between the Habanya Erg to the east and the great sink of the Cielago Depression to the west."
+    },
+    {
+        "name": "Famine Times",
+        "description": "The centuries following the death of Leto Atreides II, the God Emperor. Marked by chaos and famine on many worlds, and led to The Scattering."
+    },
+    {
+        "name": "Fanmetal",
+        "description": "a kind of metal formed by the growing of jasmium crystals in duraluminum; noted for extreme tensile strength in relationship to weight."
+    },
+    {
+        "name": "Faufreluches",
+        "description": "the rigid imperial system of class stratification."
+    },
+    {
+        "name": "Favrashi",
+        "description": "a term used by Leto II to describe the soul, collective unconscious, source of archetypes and repository of all trauma and joy."
+    },
+    {
+        "name": "Fedaykin",
+        "description": "Fremen death commandos, personally trained by Paul Atreides; historically: a group formed and pledged to give their lives to right a wrong."
+    },
+    {
+        "name": "Filmbook",
+        "description": "an apparatus used mainly for training consisting of a shigawire imprint carrying a mnemonic pulse."
+    },
+    {
+        "name": "Filt-plug",
+        "description": "part of a stillsuit worn to collect moisture from exhaled air."
+    },
+    {
+        "name": "Fiqh",
+        "description": "a Chakobsa term meaning \"law\" or \"knowledge\".In Fremen Belief \"Fiqh\" was one of the mystical origins of their Zensunni forefathers faith."
+    },
+    {
+        "name": "Fire, pillar of",
+        "description": "a simple pyrocket for signaling across the open desert. Also a manifestation of god."
+    },
+    {
+        "name": "First moon",
+        "description": "the major satellite of Arrakis:Krelln."
+    },
+    {
+        "name": "Fish Speakers",
+        "description": "All-female military force created by Leto Atreides II to enforce his rule over the Known Universe."
+    },
+    {
+        "name": "Floater Chair",
+        "description": "a piece of furniture which was part of a sietch- quarter, presumably a chair which floated via suspensor-technology."
+    },
+    {
+        "name": "Fogwood",
+        "description": "Wood native to Ecaz, capable of being shaped in situ by thought alone."
+    },
+    {
+        "name": "Foum al-hout",
+        "description": "the southern pole-star of Arrakis."
+    },
+    {
+        "name": "Franzk",
+        "description": "an old-terran language which presumably had contributed some to Galach, notably terms and names such as \"melange\"."
+    },
+    {
+        "name": "Free traders",
+        "description": "idiomatic term for Smugglers."
+    },
+    {
+        "name": "Fremen",
+        "description": "'Native' inhabitants of Arrakis."
+    },
+    {
+        "name": "Fremen robe",
+        "description": "a loose, patched type of robe worn by the Fremen over a stillsuit."
+    },
+    {
+        "name": "Fremkit",
+        "description": "Desert survival kit of Fremen manufacture."
+    },
+    {
+        "name": "Frigate",
+        "description": "a class of Starship.The largest space-faring vessel that could successfully land and take off from a planet's surface in one piece."
+    },
+    {
+        "name": "Funeral plains",
+        "description": "the empty lifeless wilderness south of Sietch Tabr."
+    },
+    {
+        "name": "Futar",
+        "description": "Primitive and fierce artificial humanoid creatures created by the Bene Tleilax, a genetic mix of man and cat."
+    },
+    {
+        "name": "Gabriel",
+        "description": "the herald of God who blows his horn to announce Judgment Day."
+    },
+    {
+        "name": "Galach",
+        "description": "Official language of the Imperium."
+    },
+    {
+        "name": "Galacia",
+        "description": "a Planet of the empire."
+    },
+    {
+        "name": "Gamont",
+        "description": "The third planet of the Niushe system."
+    },
+    {
+        "name": "Gara Rulen",
+        "description": "a settlement on Arrakis."
+    },
+    {
+        "name": "Gare or Gara",
+        "description": "Fremen for a peak or height."
+    },
+    {
+        "name": "Gare Ruden",
+        "description": "a rebel sietch on Arrakis."
+    },
+    {
+        "name": "Gathering",
+        "description": "1.the formal convocation of Fremen leaders to witness a combat that determines tribal leadership.2. A Zensunni practice of introspection. 3. The formal council of a Bene Gesserit School. 4.The Bene Gesserit Practice of concentrating inner strength."
+    },
+    {
+        "name": "Gehenna",
+        "description": "the realm of Shaitan."
+    },
+    {
+        "name": "Generalist",
+        "description": "Rank of a Mentat who had acknowledged to understand that anything which we can identify as our universe is merely part of larger phenomena."
+    },
+    {
+        "name": "Geyrat",
+        "description": "straight ahead; a worm steersman's call."
+    },
+    {
+        "name": "Ghafla",
+        "description": "giving oneself up to gadfly distractions. Thus; a changeable person, one not to be trusted.."
+    },
+    {
+        "name": "Ghanima",
+        "description": "Fremen term for a spoil of war."
+    },
+    {
+        "name": "Ghola",
+        "description": "Clone grown in an Axlotl tanks from genetic material retrieved from the cells of a deceased subject.In Fremen Mythology an undead Demon , a Ghoul."
+    },
+    {
+        "name": "Giedi prime",
+        "description": "Planet orbiting Ophiuchi B.Home of House Harkonnen."
+    },
+    {
+        "name": "Gila Woodpecker",
+        "description": "a bird home to Arrakis."
+    },
+    {
+        "name": "Ginaz, house",
+        "description": "A House and school of Swordmasters."
+    },
+    {
+        "name": "Giudichar",
+        "description": "a holy truth. (Commonly seen in the expression Giudichar mantene: an original and supporting truth.)"
+    },
+    {
+        "name": "Glowglobe",
+        "description": "Suspensor-buoyed illuminating device, self-powered by harnessing the extra energy channeled by the Holtzman effect."
+    },
+    {
+        "name": "God",
+        "description": "the Highest being or will of the Universe , or any entity revered by the various religions of the empire as likeness of the Highest Being."
+    },
+    {
+        "name": "Golden Age of Earth",
+        "description": "a time of Myth in which Mankind still inhabited only their native homeworld Earth."
+    },
+    {
+        "name": "Golden Elixir of life",
+        "description": "the religion of Emperor Paul Muad'Dib."
+    },
+    {
+        "name": "Golden Path",
+        "description": "Paul Atreides and Leto II's strategy to prevent humanity's ultimate extinction."
+    },
+    {
+        "name": "Gom Jabbar",
+        "description": "Specific poison needle tipped with meta-cyanide used by the Bene Gesserit in their 'death-alternative test of human awareness.' It was called 'the high-handed enemy.'"
+    },
+    {
+        "name": "Goygoa",
+        "description": "small pastoral village built on former Jacurutu."
+    },
+    {
+        "name": "Graben",
+        "description": "a long geological ditch formed when the ground sinks because of movements in the underlying crustal layers."
+    },
+    {
+        "name": "Great Belief",
+        "description": "Tleilaxu religion consists from two ancient religious sects, Zensunni and Sufi."
+    },
+    {
+        "name": "Great Convention",
+        "description": "Universal truce enforced under the power balance maintained by the Spacing Guild, the Great Houses, and the Imperium.  Its chief rule prohibits the use of atomics against human targets."
+    },
+    {
+        "name": "Great Hall",
+        "description": "the imperial audience chamber of Arrakeen palace."
+    },
+    {
+        "name": "Great mother",
+        "description": "1. The female principle of space 2. In Bene Gesserit terminology a lead gene-carrier."
+    },
+    {
+        "name": "Great revolt",
+        "description": "the Butlerian Jihad."
+    },
+    {
+        "name": "Greeks",
+        "description": "an ancient culture of old earth, supposedly ancestors of House Atreides."
+    },
+    {
+        "name": "Gridex plane",
+        "description": "a differential-charge separator used to remove sand from the melange spice mass; a device of the second stage in spice refining."
+    },
+    {
+        "name": "Grumman",
+        "description": "a planet of the Imperium, home to House Moritani."
+    },
+    {
+        "name": "Guild",
+        "description": "the Spacing Guild."
+    },
+    {
+        "name": "Guild Bank",
+        "description": "the financial arm of the Spacing Guild."
+    },
+    {
+        "name": "Guild courier",
+        "description": "a Guild agent trained and authorized to deliver personal shipments.Usually a person with some lesser-level Mentat-training."
+    },
+    {
+        "name": "Guild Key",
+        "description": "a cypher used by the Guild go translate the Stolen Journals and later the Dar-es-Balat hoard."
+    },
+    {
+        "name": "Guild Navigator",
+        "description": "Melange-mutated humans safely able to navigate interstellar space in Heighliners through prescience."
+    },
+    {
+        "name": "Guild Ship",
+        "description": "any spacecraft maintained by the spacing guild, but usually large starships meant to transport smaller inter-planetary vessels."
+    },
+    {
+        "name": "Habbanya",
+        "description": "a region on Arrakis northern hemisphere including both a mountain ridge and an a part of the  Erg."
+    },
+    {
+        "name": "Hadith",
+        "description": "a type of Song in Fremen Culture.Also a placename on Arrakis, a location of a Harkonnen spice-hoard as well as a Sietch name."
+    },
+    {
+        "name": "Hadji",
+        "description": "religious pilgrims travelling to Arrakis to visit the home of the messiah Muad'Dib."
+    },
+    {
+        "name": "Hagal",
+        "description": "also known as the \"Jewel Planet\", the second planet of the Theta Shaowei star system."
+    },
+    {
+        "name": "Haiiiii-Yoh!",
+        "description": "command to action; worm-steersman's call."
+    },
+    {
+        "name": "Hajj",
+        "description": "originally the spiritual journey of the Fremen, later the missionary arm of thr Church of Muad'dib.Hajj would refer to Fremen reaching out from Arrakis into the known Universe as well as to Out-freyn Pilgrims from other worlds coming to Arrakis."
+    },
+    {
+        "name": "Hajra",
+        "description": "the Zensunni journey of seeking; a migration to find a place to live as well as a holy journey of mind, body, and spirit to find wisdom and or enlightenment."
+    },
+    {
+        "name": "Hal yawm",
+        "description": "A Fremen exclamation loosely translated as \"Now! At last!\"."
+    },
+    {
+        "name": "Handlers",
+        "description": "Humanoid race who bred and trained Futars to hunt Honored Matres."
+    },
+    {
+        "name": "Harj",
+        "description": "fremen term for a desert journey or migration."
+    },
+    {
+        "name": "Harmonthep",
+        "description": "a planet orbiting the star Delta Pavonis. According to legend the sixth stop in the Zensunni Wanderers' migration."
+    },
+    {
+        "name": "Harpies",
+        "description": "mythical shadow demons lying in ambush."
+    },
+    {
+        "name": "Harvester (also Harvester Factory or Crawler)",
+        "description": "Large (often 120 metres by 40 metres) spice mining machine with a buglike body on independent tracks."
+    },
+    {
+        "name": "Headband of mourning",
+        "description": "a ceremonial haedpiece made of braided spice-fibre worn by the Fremen for funeral and memorial ceremonies."
+    },
+    {
+        "name": "Heighliner",
+        "description": "Enormous carrier spaceships used by the Spacing Guild for interstellar travel."
+    },
+    {
+        "name": "Heinali",
+        "description": "the \"manpusher\", a hundred-klick wind."
+    },
+    {
+        "name": "Hiereg",
+        "description": "Fremen term for a desert camp."
+    },
+    {
+        "name": "High council",
+        "description": "the Landsraad inner circle."
+    },
+    {
+        "name": "High Monitors",
+        "description": "ixian observance satellites used to supervise the Sareer."
+    },
+    {
+        "name": "Holtzman Effect",
+        "description": "Scientific phenomenon that makes (among other things) instantaneous space travel and defensive force shields possible."
+    },
+    {
+        "name": "The Holy Metamorphosis",
+        "description": "a Book by Harq al-Harba, also a doctrine of the Rakian Priesthood considering the two transformations of the God-Emperor."
+    },
+    {
+        "name": "Honored Matres",
+        "description": "Matriarchal order formed in The Scattering, by Bene Gesserit,Fishspeakers and Female Tleilaxu, who used sexual imprinting and violence to subdue and control their enemies."
+    },
+    {
+        "name": "Hookman",
+        "description": "Any Fremen with Maker hooks prepared to catch a sandworm."
+    },
+    {
+        "name": "Horns-of-the-Worm",
+        "description": "a Fremen handsign used to ward off Rihani magic."
+    },
+    {
+        "name": "Hour of Assassins",
+        "description": "the first hour before dawn."
+    },
+    {
+        "name": "Houri",
+        "description": "a virgin of god."
+    },
+    {
+        "name": "House",
+        "description": "a Noble imperial or planetary family."
+    },
+    {
+        "name": "House major",
+        "description": "an imperial House ruling a Planet."
+    },
+    {
+        "name": "House minor",
+        "description": "planet-bound families subject to a House major."
+    },
+    {
+        "name": "House Proctor",
+        "description": "a lawyer or other official in service of a House or a Reverend Mother in service of a specific House."
+    },
+    {
+        "name": "House Ferrets",
+        "description": "watchful small animals held by the planetary houses to Alert from any intruders and ward off harmful vermin, especially 'infectious Agents'."
+    },
+    {
+        "name": "Huanui-nau",
+        "description": "a Deathstill."
+    },
+    {
+        "name": "Hulasikali Wala",
+        "description": "fremen name for the Coriolis storm."
+    },
+    {
+        "name": "Hunter-seeker",
+        "description": "Ravening sliver of suspensor-buoyed metal guided as a weapon by a nearby control console, commonly used for assassination. Floating in mid-air, it kills by entering the body and following nerve pathways to vital organs."
+    },
+    {
+        "name": "Ibad",
+        "description": "\"Lost ones\"; originally a tribe of the Nilotic al-Ourouba, later used figuratively for the deep blue eyes of the Fremen or other Melange adicts, caused by the spice-saturation of the adicts blood."
+    },
+    {
+        "name": "Ibid",
+        "description": "implying a quotation, short for Latin ibidem, meaning \"in the same place\".Someone who became another one's \"Ibid\" only still exists as a quotation, i.e. in a truncated or abbreviated, and possibly decontextualized form."
+    },
+    {
+        "name": "Ibn qirtaiba",
+        "description": "see qirtaiba"
+    },
+    {
+        "name": "Ichwan",
+        "description": "a band of brothers.Used for the brotherhood of the Ichwan-Bedwines, the tribal communion of all Fremen on Arrakis."
+    },
+    {
+        "name": "Idaho river",
+        "description": "a river on Rakis, in the place of the former Mount Idaho."
+    },
+    {
+        "name": "Iduali",
+        "description": "blood drinking \"water-insects\";  a mythical Fremen tribe once outlawed for taking the water of fellow Fremen."
+    },
+    {
+        "name": "Ijaz",
+        "description": "Described as \"The inimitibility of the prophecy\". A term used by the Missionaria Protectiva to describe a prophecy they have planted on a planet as unique, and unable to be copied. Lady Jessica uses this term to describe the Fremen prophecy of the Mahdi that was planted on Arrakis."
+    },
+    {
+        "name": "Ikhut-eigh!",
+        "description": "the cry of the water-sellers on Arrakis.The etymology is uncertain."
+    },
+    {
+        "name": "Imperial Citadel",
+        "description": "Leto II's great dwelling in the Sareer."
+    },
+    {
+        "name": "Ilm",
+        "description": "fremen term for theology."
+    },
+    {
+        "name": "Imperial conditioning",
+        "description": "a development of the Suk Medical Schools.The highest conditioning against taking human life, which meant that a Suk Doctor who had this conditioning could even serve an Emperor."
+    },
+    {
+        "name": "Imprinter",
+        "description": "A Reverend Mother, who achieved to master three hundred steps of orgasmic amplification, assigned to condition any potential or important male via sexual imprinting."
+    },
+    {
+        "name": "Infectious agent",
+        "description": "a Virus or microscopic one-celled organism aimed intended as a biological weapon against a specific Victim or group of human Targets.Also figuratively the human or animal carrier of such a biological weapon."
+    },
+    {
+        "name": "Inkvine",
+        "description": "Creeping plant native to Giedi Prime and frequently used as a whip in its slave pens. Victims were marked by beet-colored tattoos that caused residual pain for many years."
+    },
+    {
+        "name": "Inquisitor",
+        "description": "A judge or official inquisiting heresies.During and after the butlerian Jihad Inquisitors were represetants of the Orange-Catholic Orthodoxy who pursued violations of the great Convention.During the Atreides empire the Inquisitors usually were Members of the Qizarate who persecuted dissenters from the Golden Elixir of Life religion. Under Leto II similar tasks were performed by the Fishspeakers of the Bureau of Faith."
+    },
+    {
+        "name": "Isis Cult",
+        "description": "an ancient terran religion revering the demon-goddess of death.The Cult was revived by a group of Heretics during the reign of Leto II."
+    },
+    {
+        "name": "Isnad",
+        "description": "among the Fremen a convention of a tribe in which was hold justice on another member of the tribe."
+    },
+    {
+        "name": "Istislah",
+        "description": "The Fremen rule of general interest. Everything is done in the general interest of the tribe, not the individual."
+    },
+    {
+        "name": "Itinerant priest",
+        "description": "a member of the Church of Muad'dib travelling with a group of Pilgrims, settlers,Suks or Jihadis , spreading the golden Elixir of life religion throughout the known Universe."
+    },
+    {
+        "name": "Ix",
+        "description": "the ninth planet in the star system Alkalurops,ruled by the Ixian Technocracy.Ixian economy depended on manufacturing complex machinery, sometimes flouting the moral-juridical proscriptions of the great convention."
+    },
+    {
+        "name": "Ixian amplifyer",
+        "description": "microscopic amplifiers of ixian make used by Leto II on his royal cart to amplify his voice on processions."
+    },
+    {
+        "name": "Ixian Core",
+        "description": "the heartland of the technological federation goverened by Ix."
+    },
+    {
+        "name": "Ixian damper",
+        "description": "Device used to prevents eavesdropping from outside functioning area."
+    },
+    {
+        "name": "Ixian dictatel",
+        "description": "a microscopic voice- and thought-recording printer, imprinting on ridulian crystal-paper."
+    },
+    {
+        "name": "Ixian globe",
+        "description": "a precursor or early type of no-room.A mechanical device ,invisible, emitting radiation and absorbing radiation to simulate the natural character of its surroundings,"
+    },
+    {
+        "name": "Ixian mask",
+        "description": "1. A type of ixian-made black gauze-mask, presumably mechanical, enabling a blind man to see. 2. A movable transparent type of slide-wall used to keep insects away."
+    },
+    {
+        "name": "Ixian Masters",
+        "description": "the Ixian-confederacy's ruling class or technocrat-elite."
+    },
+    {
+        "name": "Ixian navigator",
+        "description": "Mechanical substitution for a Guild Navigator. It was used in every no-ships and in some of Guild heighliners."
+    },
+    {
+        "name": "Ixian probe",
+        "description": "Device used to capture the thoughts of a person (living or dead) for analysis; could be blocked by the substance shere."
+    },
+    {
+        "name": "Ixian tools",
+        "description": "otherwisely unnamed type of specific ixian machinery used for detection and tunneling of underground-facilities."
+    },
+    {
+        "name": "Ixian tube-lift",
+        "description": "large transportation systems, similar to vacuum elevators, used by Leto II for traveling his imperial Citadel."
+    },
+    {
+        "name": "Jacob  Broom",
+        "description": "a Politician and Businessman of Old Earth.He was one of the many historical personalities who were alive in Leto II Consciousness.The sentence \"Control the courts and the coinage -let the rabble have the rest\"  was attributed to him."
+    },
+    {
+        "name": "Jadacha",
+        "description": "'The Legs of thights'.A Jadacha-hermaphrodit as the Face Dancers was a person who was of no physical or mental sex and gender who could willingly change it's physics to imitate a person of any sex and gender."
+    },
+    {
+        "name": "Jalalud-Din",
+        "description": "a settlement on Arrakis near the great gap in the shield wall."
+    },
+    {
+        "name": "Janus",
+        "description": "a bearded two-faced roman god from old earth.During Alia's reign Atreides Statues depicting Leto and Alia were designed to resemble images of Janus in Style."
+    },
+    {
+        "name": "Jihad",
+        "description": "the ultimate goal or strife.Often referring to the Butlerian Jihad or the Fremen Holy war."
+    },
+    {
+        "name": "Jihad, butlerian",
+        "description": "the great revolt against thinking machines and machine culture."
+    },
+    {
+        "name": "John Baptist",
+        "description": "a prophet of old earth revered in Christianity and First Islam and remembered in Orange Catholicism."
+    },
+    {
+        "name": "John Bartlett",
+        "description": "a scholar from of old terra known for his collection of famous quotes."
+    },
+    {
+        "name": "Johnnies",
+        "description": "an arrakisian term for \"Outsiders\" or inexperienced people from off-world."
+    },
+    {
+        "name": "Jowf",
+        "description": "a place on old earth ,possibly near Assyria,Conquered by Sennacherib, .The priestesses of Jowf were ancestors of the Bene Gesserit."
+    },
+    {
+        "name": "Jubba",
+        "description": "an all-purpose cloak commonly worn over a stillsuit on Arrakis."
+    },
+    {
+        "name": "Judge of the change",
+        "description": "an Imperial officer who was charged with presiding over a change of planetary Fief, declarations and forms of kanly, or War of Assassins during the days of the Imperium. A Judge's authority could only be challenged before the High Council."
+    },
+    {
+        "name": "Kadesh",
+        "description": "a planet, home of Tagir Mohandis, the troubadour."
+    },
+    {
+        "name": "Kadrish",
+        "description": "a planet far from Arrakis where it had become fashion to wear imitated stillsuits."
+    },
+    {
+        "name": "Kagga Basin",
+        "description": "a region on Arrakis close to Arrakeen."
+    },
+    {
+        "name": "Kairitis",
+        "description": "a Bene Gesserit discipline to judge ones self assurance.A discipline without words or phrases, rules or laws."
+    },
+    {
+        "name": "Leb Kamai",
+        "description": "\"Heart of the uprise\" .A mythical place, possibly originally referring to Chaldea or Babylonia on old Earth."
+    },
+    {
+        "name": "Kanly",
+        "description": "Formal feud or vendetta under the rules of the Great Convention carried on according to the strictest limitations. Originally the rules were designed to protect innocent bystanders."
+    },
+    {
+        "name": "Karakul",
+        "description": "a black wool made from the wool of the Karakul sheep."
+    },
+    {
+        "name": "Karama",
+        "description": "A miracle; an action intiated by the spirit world."
+    },
+    {
+        "name": "Kaymakam",
+        "description": "title for a political governor during Paul Muad'dib and Alia's rule"
+    },
+    {
+        "name": "Kaza",
+        "description": "fremen term for the appointed leader of a group"
+    },
+    {
+        "name": "Kedem  or Kadem",
+        "description": "the Fremen word for Arrakis' inner desert."
+    },
+    {
+        "name": "Keeper of Jessica's Light",
+        "description": "Title of the High-Priestess of the renewed Cult of Alia on Gammu."
+    },
+    {
+        "name": "Keffiya",
+        "description": "the knotted headdress worn by a Fremen Naib."
+    },
+    {
+        "name": "Ke'leb",
+        "description": "an archaic word for Dog as in the saying \"to know the difference between Ze'eb and Ke'leb\".A Ke'leb was a person without any true power and as such unable to abuse it."
+    },
+    {
+        "name": "Ketman",
+        "description": "fremen term for the concept of Taquiyya."
+    },
+    {
+        "name": "Khala",
+        "description": "Traditional invocation to still the angry spirits of a place you mention."
+    },
+    {
+        "name": "Killer medic",
+        "description": "a Physician trained as an Assassin.Killer medics were the Tleilaxu Antithesis of Suk-doctors and of course did not have an imperial conditioning."
+    },
+    {
+        "name": "Kindjal",
+        "description": "a two-edged shortblade or Knife used commonly in shield-fighting."
+    },
+    {
+        "name": "Kiswa",
+        "description": "Any figure or design from Fremen mythology."
+    },
+    {
+        "name": "Kitab Al-Ibar",
+        "description": "The combined survival handbook/religious manual developed by the Fremen on Arrakis"
+    },
+    {
+        "name": "Koan",
+        "description": "A Zen-Mindbreaker.In Zensunni Philosophy usually a self-contradicting statement, riddle or oxymoron."
+    },
+    {
+        "name": "Kontar",
+        "description": "a unit of measure.Once one and a half kontar limited a camel load."
+    },
+    {
+        "name": "Kralizec",
+        "description": "Long-foretold final battle or 'typhoon struggle at the end of the universe.'"
+    },
+    {
+        "name": "Krimskell fibre",
+        "description": "a fibre made of the Hufuf vine of Ecaz.Often used to bind and strap prisoners."
+    },
+    {
+        "name": "Krimskell rope",
+        "description": "a rope made of Krimskell fibre, often used by Troopers for crowd-control and to capture potential convicts."
+    },
+    {
+        "name": "Kull wahad",
+        "description": "an old saying often used in the way of \" I am surprised!\""
+    },
+    {
+        "name": "Kulon",
+        "description": "a domesticated desert-ass descending from the wild terran asian steppe ass.Kulons wore usually stillsuits manufactured specially for these animals and were often used by smugglers."
+    },
+    {
+        "name": "Kwisatz Haderach",
+        "description": "\"The Shortening of the Way.\" This is the label applied by the Bene Gesserit to the unknown for which the sought a genetic solution: a male Bene Gesserit whose organic mental powers would bridge space and time. After the reign of Leto II, the Tyrant, this label became applied to all persons whom the Bene Gesserit thought to be of unnatural/supernatural power that could drastically change the balance of power in the known universe. ( See also Leto Atreides II, Paul Atreides, Hasimir Fenring, Duncan Idaho, Miles Teg)"
+    },
+    {
+        "name": "Kynes Sea",
+        "description": "a vast ocean on later terra-formed Arrakis lying beyond the Sareer."
+    },
+    {
+        "name": "La,la,la",
+        "description": "a Fremen cry of grief (\"La\" translates as ultimate denial, a “no” from which you cannot appeal.)"
+    },
+    {
+        "name": "Landing-lip",
+        "description": "an extendable landing strip for smaller vessels such as Thopters or small spacecrafts."
+    },
+    {
+        "name": "Landsraad",
+        "description": "The Assembly of all nobles in the Imperium."
+    },
+    {
+        "name": "Lasgun",
+        "description": "Energy weapon, technically a continuous-wave laser projector."
+    },
+    {
+        "name": "L-ray",
+        "description": "The ray emitted from the explosion of stone burner that can cause blindness with direct contact to the eye."
+    },
+    {
+        "name": "Laza tiger",
+        "description": "Big hybrid feline on Salusa Secundus"
+    },
+    {
+        "name": "Legion, imperial",
+        "description": "a large fighting force of approximately 40,000 men, either Imperial Sardaukar or Conscripts of the Great Houses."
+    },
+    {
+        "name": "Liban",
+        "description": "spice water infused with yucca flour. Originally a sour milk drink of the Fremen."
+    },
+    {
+        "name": "Lida",
+        "description": "an old unit of measure.Originally a camel load or two thirds of one Kontar."
+    },
+    {
+        "name": "Life scanner",
+        "description": "ixian machines for detection of life signals on a planet or a specific area.The Scanners rays could be blocked by specific algae which were used as living protection shields."
+    },
+    {
+        "name": "Life shield blanket",
+        "description": "Device used to shield life signal inside the shielding area from life tracing."
+    },
+    {
+        "name": "Lisan al-gaib",
+        "description": "\"The Voice from the Outer World\".Originally the Fremen term for an off-world prophet or Mahdi outlined in Fremen messianic legends later heavily influenced by the Bene Gesserit's Missionaria Protectiva."
+    },
+    {
+        "name": "Lisanu L'haqq",
+        "description": "the \"language of truth\" or true voice of Al-Mutakallim."
+    },
+    {
+        "name": "Literjon",
+        "description": "a one-liter container for transporting water on Arrakis; made of high-density, shatterproof plastic with positive seal."
+    },
+    {
+        "name": "Little Citadel",
+        "description": "a vantage tower in the central Sareer built bY Leto II."
+    },
+    {
+        "name": "Little maker",
+        "description": "Fremen term for the Sandtrout or half-plant-half-animal deep-sand vector of the Arrakis sandworm."
+    },
+    {
+        "name": "Long Koan",
+        "description": "the great Zensunni mindbreaker or accurate prediction of future."
+    },
+    {
+        "name": "Lost Tleilaxu",
+        "description": "Offshoot race of the Bene Tleilax, formed in The Scattering."
+    },
+    {
+        "name": "Machinery inspector",
+        "description": "a class of Imperial clerks, more privileged than common energy-workers but not part of the Fishspeaker ranks."
+    },
+    {
+        "name": "Mahdi",
+        "description": "the savior or messiah of Fremen theology."
+    },
+    {
+        "name": "Mahdi religion",
+        "description": "the Golden Elixir of Life Religion of Muad'Dib as established by the Church of Muad'Dib.Also Alia's Mahdinate."
+    },
+    {
+        "name": "Mahdi spirit cultists",
+        "description": "a superstitious offshot of the Mahdi-Religion which revered Muad'Dib's spirit after his presumed death.An inofficial sect tolerated by Alia's priesthood but existing outside the official Church."
+    },
+    {
+        "name": "Mahdinate",
+        "description": "the Title of Alia's regency as formal successor of Muad'Dib."
+    },
+    {
+        "name": "Majordomo",
+        "description": "the God Emperor Leto's highest official and personal confidante."
+    },
+    {
+        "name": "Maker",
+        "description": "Fremen term for the Sandworms, sub-categorized into \"little Makers\" and Shai-Hulud."
+    },
+    {
+        "name": "Maker Hook",
+        "description": "long, narrow shafts of metal with a hook on the end used by the Fremen for capturing, mounting and steering the Sandworms."
+    },
+    {
+        "name": "Maku?",
+        "description": "a Fremen exclamation.Possibly relating to the mythical \"place of magicians\" on Old Earth."
+    },
+    {
+        "name": "Management bureaucracy",
+        "description": "the administrative class within all historical societies including monarchy."
+    },
+    {
+        "name": "Mantene",
+        "description": "the first principle ,underlying wisdom or supporting argument. (See Giudichar.)"
+    },
+    {
+        "name": "Maometh",
+        "description": "the third Muhammed, the Prophet of Buddislam."
+    },
+    {
+        "name": "Masshad",
+        "description": "fremen term for a spiritual-test."
+    },
+    {
+        "name": "Master of the Deathstills",
+        "description": "a tribal rank in every Fremen Sietch overseeing the Sietches Deathstill."
+    },
+    {
+        "name": "Mating index",
+        "description": "the Bene Gesserit master record of its human breeding program aimed at producing the Kwisatz Haderach."
+    },
+    {
+        "name": "Maula",
+        "description": "a Slave.The unfree, planet-bound class without any personal rights."
+    },
+    {
+        "name": "Maula pistol",
+        "description": "Spring-loaded gun for firing poison darts, with a range of about 40 metres."
+    },
+    {
+        "name": "Maulana",
+        "description": "a rank or office among the Qizarate."
+    },
+    {
+        "name": "Medic",
+        "description": "1. Any trained physician 2. A \"House Medic\", of the personal Physician of a Great Houses family.Usually a Suk-Doctor."
+    },
+    {
+        "name": "Melange",
+        "description": "Drug that was essential to space travel and extended life, and therefore to the survival of the universe."
+    },
+    {
+        "name": "'mektub al mellah'",
+        "description": "\"The thing was written with salt\", a Fremen proverb."
+    },
+    {
+        "name": "Melange Wafers",
+        "description": "small wafers of concentrated Melange.Overdoses could lead to suicidal berzerker-like rage, a tactic that was sometimes used by the Sardaukar.Wafers with only a slight Melange dose were used by the Fishspeakers during their Siaynoq."
+    },
+    {
+        "name": "Memerase paper",
+        "description": "a type of fine paper fit for containing large amounts of miniaturized script information."
+    },
+    {
+        "name": "Memocorder",
+        "description": "a tiny handheld device of Ixian origin that could store written messages."
+    },
+    {
+        "name": "Mentat",
+        "description": "Individuals trained as human computers, their minds developed to staggering heights of cognitive and analytical ability."
+    },
+    {
+        "name": "Merchant Engineers",
+        "description": "a class of respected planetary intelligentsia."
+    },
+    {
+        "name": "Merchant-priests",
+        "description": "the class of temple-merchants selling off cheap religious accessoired to Pilgrims, also idiomatic for Priests who sell religion like a common ware to gain personal prestige and power."
+    },
+    {
+        "name": "Message-Capsule",
+        "description": "small containers intended for transport of sealed personal messages."
+    },
+    {
+        "name": "Metaglass",
+        "description": "glass grown as a high-temperature gas infusion in sheets of jasmium quartz. Noted for extreme tensile strength (about 450,000 kilos per square centimeter at two centimeters' thickness) and capacity as a selective radiation filter."
+    },
+    {
+        "name": "microbubble",
+        "description": "an archaic system of storing sound-recordings."
+    },
+    {
+        "name": "Mihna",
+        "description": "the season for testing Fremen youths who wish admittance to manhood."
+    },
+    {
+        "name": "Minimic film",
+        "description": "shigawire of one-micron diameter often used to transmit espionage and counterespionage data."
+    },
+    {
+        "name": "Mirabhasa",
+        "description": "principles of the Bhotani philosophy, meaning \"rationalism\".Also mirabhasa languages, created after the Mirabhasa principles, honed phlange consonants and joined vowels used as an instrument for conveying fine emotional subtleties."
+    },
+    {
+        "name": "Mirzabah",
+        "description": "the Iron Hammer with which the dead are beaten who cannot reply satisfactorily to the questions they must answer before entry into paradise."
+    },
+    {
+        "name": "Mish-Mish",
+        "description": "Apricots."
+    },
+    {
+        "name": "Misr",
+        "description": "the historical Zensunni(Fremen) term for themselves: \"The People.\""
+    },
+    {
+        "name": "Missionaria Protectiva",
+        "description": "An arm of the Bene Gesserit charged with spreading contrived myths, prophecies and superstition on primitive worlds so that the Bene Gesserit may later exploit those regions."
+    },
+    {
+        "name": "Mjeed",
+        "description": "a ruling-title from old Terra.Translated as \"Superior\"."
+    },
+    {
+        "name": "Mnemonic amplifier",
+        "description": "a learning-device used to train and strengthen memorization."
+    },
+    {
+        "name": "Mnemonic flutter-system",
+        "description": "an attachement used with a shigawire projector to internalize large amounts of data."
+    },
+    {
+        "name": "Mohalata",
+        "description": "among the Fremen the term for a protective partnership.Among the Bene Gesserit the partnership one of the pre-born can have with benign ancestors to protect him from malignant ancestors."
+    },
+    {
+        "name": "Moisture seal",
+        "description": "a door or dome used to preserve bodymoisture."
+    },
+    {
+        "name": "Moisture trap",
+        "description": "a waterproof sheath for collecting condensed dew."
+    },
+    {
+        "name": "Molitor Victory",
+        "description": "an important Battle during Muad'Dib's Jihad,,probably named after a Planet or System."
+    },
+    {
+        "name": "Monitor",
+        "description": "a ten-section space warcraft mounting heavy armor and shield protection. It is designed to be separated into its component sections for lift-off after planet-fall."
+    },
+    {
+        "name": "Mother of moisture",
+        "description": "the Fremen title for the mother of the Mahdi or Lisan al Gaib."
+    },
+    {
+        "name": "Mouthseal",
+        "description": "a device for preserving mouth-moisture worn with a Djeballa-hood."
+    },
+    {
+        "name": "Muad'dib",
+        "description": "the adapted kangaroo mouse of Arrakis, a creature associated in the Fremen earth-spirit mythology with a design visible on the planet's second moon. This creature was admired by Fremen for its ability to survive in the open desert."
+    },
+    {
+        "name": "Muad'Dibs Cleft",
+        "description": ""
+    },
+    {
+        "name": "Mudir nahya",
+        "description": "the Fremen name for Beast Rabban (Count Rabban of Lankiveil), the Harkonnen cousin who was siridar governor on Arrakis for many years. The name was often translated as \"Demon Ruler.\""
+    },
+    {
+        "name": "Mufti",
+        "description": "the garb, cap and gown,  of a Priest or House-trooper off-duty."
+    },
+    {
+        "name": "Muritan",
+        "description": "a Planet where a Battle was fought during the late years of Muad'Dib's Jihad."
+    },
+    {
+        "name": "Museum Fremen",
+        "description": "A class of lower citizens on Rakis during the Empire of Leto II.Degenerate descendants of the Fremen who inhabited restricted precincts of the Planet uncontaminated by offworld-technology as living museums of Fremen culture to educate visitors."
+    },
+    {
+        "name": "Mushtamal",
+        "description": "a small garden annex to a Fremen djedida, the term was imported from Ishkal."
+    },
+    {
+        "name": "Musky",
+        "description": "poison in a drink. (See Chaumurky.)"
+    },
+    {
+        "name": "Mu zein wallah!",
+        "description": "Mu zein literally meant \"nothing good,\" and wallah was a reflexive terminal exclamation. In this traditional opening for a Fremen curse against an enemy, Wallah turned the emphasis back upon the words Mu zein, producing the meaning: \"Nothing good, never good, good for nothing.\""
+    },
+    {
+        "name": "Na-Baron",
+        "description": "Noble title given to a Baron's heir-apparent."
+    },
+    {
+        "name": "Naib",
+        "description": "Caretaker and Leader of Sietch. The word means 'Servant of Sietch' in Chakobsa."
+    },
+    {
+        "name": "Naraj Worlds",
+        "description": "a Group of Planets or a system comquered during Muad'Dibs Jihad.During the Conquest the Defendants made use of Stoneburners."
+    },
+    {
+        "name": "Navigation machines",
+        "description": "Thinking machines used to steer Spaceships during hyperspace travel.They were used prior to the rise of the Spacing Guilds mutated Navigators and later were banned and forgotten abput until improved navigation machines were developed by the Ixians after Leto II which ultimately broke the Guilds monopoly."
+    },
+    {
+        "name": "Nebiros",
+        "description": "a House Minor during Alias regency trading in holy artefacts and small manufactured items for decoration."
+    },
+    {
+        "name": "Needle knife",
+        "description": "a type of Tool and weapon worn by the Fremen."
+    },
+    {
+        "name": "Nezhoni scarf",
+        "description": "a scarf-pad worn on the forehead, beneath a stillsuit, by Fremen women who had given birth to a son and who were married or romantically attached."
+    },
+    {
+        "name": "Niazi",
+        "description": "a place of saltmines on Arrakis."
+    },
+    {
+        "name": "Nightseal",
+        "description": "or \"Nightshield\".Part of a Fremkit, a device enabling to get under cover in darkness in the desert."
+    },
+    {
+        "name": "No-chamber or No-room",
+        "description": "Construct that hid anything inside from prescient and ocular vision, as well as other methods of detection."
+    },
+    {
+        "name": "No-ship",
+        "description": "No-chamber in spaceship form, with enough limited prescience to be capable of interstellar travel without a Guild Navigator."
+    },
+    {
+        "name": "Noah Arkwright",
+        "description": "A Philosopher and historian.Presumably a Pseudonym of Leto II."
+    },
+    {
+        "name": "Non-absolutum, Ultimate, the",
+        "description": "Bene Gesserit term for nature in all of her manifestations and changes."
+    },
+    {
+        "name": "Noukker",
+        "description": "an officer 8f the imperial Guard and  traditional rank for sons and daughters of the royal concubines.Noukkers were known for their extreme height and body size."
+    },
+    {
+        "name": "Novice",
+        "description": "1. An aspirant Bene Gesserit sister 2. A Sayyadina."
+    },
+    {
+        "name": "Nullentropy",
+        "description": "Technology through which the natural processes of time, such as decomposition, were ceased. In this way, matter such as human cells was stored for millennia without damage."
+    },
+    {
+        "name": "Obliterators",
+        "description": "Honored Matre weapons of mass destruction. They combusted the atmosphere of a planet and subsequently its surface."
+    },
+    {
+        "name": "Oil lens",
+        "description": "Hufuf-Oil held in tension in an enclosing force field, used as an optical component."
+    },
+    {
+        "name": "Opafire",
+        "description": "one of the rare opaline jewels of Hagal."
+    },
+    {
+        "name": "Oracle",
+        "description": "1. a person with prescience, especially persons of the Spacing Guild or the Bene Gesserit.2. the mythical gift and philosophical mystery of prescience as such.3. Alia as the Oracle of Muad'Dib."
+    },
+    {
+        "name": "Orange Catholic Bible",
+        "description": "also known as the Koranjiyana Zenchristian Scriptures, the Accumulated Book, or the Zenchristian Navakoran, was one of the most important religious texts in the known universe."
+    },
+    {
+        "name": "Orange catholic ritual",
+        "description": "the rite of communion among the followers of the fourteen sages in which the believers shared a wafer sybolising the flesh of god."
+    },
+    {
+        "name": "Order of Hormu",
+        "description": "An organization of Honored Matres' playfems."
+    },
+    {
+        "name": "Other Memory",
+        "description": "The combined ego and memories of all female ancestors that a Bene Gesserit was trained to access."
+    },
+    {
+        "name": "Ornithopter (or 'Thopter)",
+        "description": "Aircraft capable of sustained wing-beat flight in the manner of birds."
+    },
+    {
+        "name": "Out-freyn",
+        "description": "Galach for \"immediately foreign,\" that is: not of your immediate community, not of the select."
+    },
+    {
+        "name": "Osiris",
+        "description": "a deity from old Terra, brother and husband to Isis and dying god of rebirth."
+    },
+    {
+        "name": "Ovid",
+        "description": "a poet of Old Earth whose works were long forgotten and who was only still remembered in some famous quotations."
+    },
+    {
+        "name": "Pajama suit",
+        "description": ""
+    },
+    {
+        "name": "Palato",
+        "description": "an ancient ruler-title from the Old Empire or even Old Earth"
+    },
+    {
+        "name": "Palian Silk",
+        "description": ""
+    },
+    {
+        "name": "Palm lock",
+        "description": "Lock or seal which could be opened only by contact with the palm of the human hand to which it has been keyed."
+    },
+    {
+        "name": "Pan",
+        "description": ""
+    },
+    {
+        "name": "Panoplia Propheticus",
+        "description": "Common term for superstitions planted through the Known Universe by Missionaria Protectiva."
+    },
+    {
+        "name": "Paracompass",
+        "description": ""
+    },
+    {
+        "name": "Paradan",
+        "description": ""
+    },
+    {
+        "name": "Parasilk",
+        "description": ""
+    },
+    {
+        "name": "Parato Silk",
+        "description": ""
+    },
+    {
+        "name": "Parella",
+        "description": ""
+    },
+    {
+        "name": "Pastaza",
+        "description": "fremen term for a specific kind of breeze."
+    },
+    {
+        "name": "Perimeter Wall",
+        "description": ""
+    },
+    {
+        "name": "Perth",
+        "description": ""
+    },
+    {
+        "name": "Phibian",
+        "description": "Primitive, amphibious humanoid creatures, a genetic mix of man and fish."
+    },
+    {
+        "name": "Pilgrim",
+        "description": ""
+    },
+    {
+        "name": "Planets of Dan",
+        "description": ""
+    },
+    {
+        "name": "Plasteel",
+        "description": "Extremely tough form of steel, stabilized with stravidium fibers grown into its crystal structure."
+    },
+    {
+        "name": "Playfem",
+        "description": "Short for Play Female, a word used to designate a type or class of prostitute."
+    },
+    {
+        "name": "Plasmeld",
+        "description": ""
+    },
+    {
+        "name": "Plastone",
+        "description": ""
+    },
+    {
+        "name": "Plaz (or windowplaz)",
+        "description": "Synthetic glass, used for windows (especially in aircraft and spaceships) due to its superior strength."
+    },
+    {
+        "name": "Pleniscenta",
+        "description": ""
+    },
+    {
+        "name": "Poison snooper",
+        "description": "Radiation analyzer within the olfactory spectrum and keyed to detect poisonous substances."
+    },
+    {
+        "name": "Poling the sand",
+        "description": ""
+    },
+    {
+        "name": "Ponji rice",
+        "description": ""
+    },
+    {
+        "name": "Poritrin",
+        "description": ""
+    },
+    {
+        "name": "Portyguls",
+        "description": "Oranges."
+    },
+    {
+        "name": "Prajna",
+        "description": "a Bene Gesserit meditation technique."
+    },
+    {
+        "name": "Prana",
+        "description": ""
+    },
+    {
+        "name": "Prana-bindu",
+        "description": "Prana for nerve and bindu for fibers. Training that provided a Bene Gesserit with complete muscle control (Prana nervature related to nervous system control), and the basis of the Weirding Way"
+    },
+    {
+        "name": "Presciensce",
+        "description": ""
+    },
+    {
+        "name": "Pre-spice mass",
+        "description": ""
+    },
+    {
+        "name": "Predator fish",
+        "description": "Fishes that used to protect qanat from sandtrout."
+    },
+    {
+        "name": "Priest-advocate",
+        "description": ""
+    },
+    {
+        "name": "Priest-guards",
+        "description": ""
+    },
+    {
+        "name": "Priestess Amazons",
+        "description": ""
+    },
+    {
+        "name": "Priestesses of Jowf",
+        "description": ""
+    },
+    {
+        "name": "Primito",
+        "description": ""
+    },
+    {
+        "name": "Proces verbal",
+        "description": ""
+    },
+    {
+        "name": "Proctor superior",
+        "description": ""
+    },
+    {
+        "name": "Propagandists",
+        "description": ""
+    },
+    {
+        "name": "Pru-door  prudence barrier",
+        "description": ""
+    },
+    {
+        "name": "Pundi rice",
+        "description": ""
+    },
+    {
+        "name": "Punji Cotton",
+        "description": ""
+    },
+    {
+        "name": "Pyons",
+        "description": ""
+    },
+    {
+        "name": "Pyretic consciense",
+        "description": ""
+    },
+    {
+        "name": "Qadis as-Salaf",
+        "description": "the holy fathers of Fremen mythology."
+    },
+    {
+        "name": "Qanat",
+        "description": "Open canal for carrying irrigation water under controlled conditions through a desert."
+    },
+    {
+        "name": "Qirtaiba",
+        "description": "derived from \"\"Ibn Qirtauba, \"Thus go the holy words....\" the formal beginning to Fremen religious incantation (derived from panoplia propheticus)."
+    },
+    {
+        "name": "Qizara tafwid",
+        "description": ""
+    },
+    {
+        "name": "Rachag",
+        "description": "a coffein-like stimulans extracted from the berries of the Arkaso."
+    },
+    {
+        "name": "Rain tree",
+        "description": ""
+    },
+    {
+        "name": "Raja",
+        "description": ""
+    },
+    {
+        "name": "Rakah",
+        "description": ""
+    },
+    {
+        "name": "Ramadhan",
+        "description": ""
+    },
+    {
+        "name": "Razzia",
+        "description": ""
+    },
+    {
+        "name": "Recaths",
+        "description": ""
+    },
+    {
+        "name": "Rebaba",
+        "description": "a ten-string instrument of the Fremen."
+    },
+    {
+        "name": "Rebec",
+        "description": ""
+    },
+    {
+        "name": "Repkit",
+        "description": ""
+    },
+    {
+        "name": "Residual poison",
+        "description": "Innovation whereby the body was impregnated with a substance for which repeated antidotes must be administered; withdrawal of the antidote at any time brought death."
+    },
+    {
+        "name": "Reverend Mother",
+        "description": "Female Bene Gesserit who had survived a ritual wherein she consciously transformed a toxic dose of melange to a non-poisonous substance at the molecular level, thereby raising herself to a higher level of awareness and enabling her to access Other Memory."
+    },
+    {
+        "name": "Richece",
+        "description": ""
+    },
+    {
+        "name": "Richese",
+        "description": ""
+    },
+    {
+        "name": "Ridulian Crystal",
+        "description": "Crystalline substance used to manufacture printing materials at the thickness of one molecule."
+    },
+    {
+        "name": "Ridulian Crystal paper",
+        "description": ""
+    },
+    {
+        "name": "Rihani decipherment",
+        "description": "decipherment used by the Bene Gessent to recognize a registered individual no matter what overt change in behavior or appearance he assumes Rihani decipherment also allowed sisters to unerringly identify Face Dancers and gholas, even when they assumed the appearance of individuals unknown to the Sister herself.The decipherment pattern also allowed them to discern the non-human characteristics."
+    },
+    {
+        "name": "Rihani magic",
+        "description": "among the Fremen a mythical ancient form of forbidden sorcery or witchcraft."
+    },
+    {
+        "name": "Rimwall",
+        "description": ""
+    },
+    {
+        "name": "Ringwall West",
+        "description": ""
+    },
+    {
+        "name": "Royal cart",
+        "description": ""
+    },
+    {
+        "name": "Royal Road",
+        "description": ""
+    },
+    {
+        "name": "Ruh-spirit",
+        "description": "In Fremen belief, that part of the individual that is always rooted in and capable of sensing the metaphysical world."
+    },
+    {
+        "name": "Sadu",
+        "description": "among the fremen the blessed company of heavenly judges.A Sadu presided over the traditional scales, which here weigh either the soul or the water rendered trom the dead, for the scales formed the T of the Tau."
+    },
+    {
+        "name": "Salusa Secundus",
+        "description": ""
+    },
+    {
+        "name": "Salusan bull",
+        "description": "Fierce and very aggressive creature with multiple horns, used in bullfighting on Caladan and supposedly originating from Salusa Secundus."
+    },
+    {
+        "name": "Sandblast",
+        "description": ""
+    },
+    {
+        "name": "Sandcrawler",
+        "description": ""
+    },
+    {
+        "name": "Sand dancer",
+        "description": ""
+    },
+    {
+        "name": "Sandmaster",
+        "description": ""
+    },
+    {
+        "name": "Sand Pirates",
+        "description": ""
+    },
+    {
+        "name": "Sand plankton",
+        "description": "The first phase of Sandworm's life cycle before a Sandtrout vector. Thought to be Sandworm's food."
+    },
+    {
+        "name": "Sandrider",
+        "description": ""
+    },
+    {
+        "name": "Sandsnork",
+        "description": ""
+    },
+    {
+        "name": "Sandthorn",
+        "description": ""
+    },
+    {
+        "name": "Sandtide",
+        "description": ""
+    },
+    {
+        "name": "Sandtracks",
+        "description": ""
+    },
+    {
+        "name": "Sandtrout",
+        "description": "Premature form of the Sandworm."
+    },
+    {
+        "name": "Sandwalker",
+        "description": ""
+    },
+    {
+        "name": "Sandworm",
+        "description": "Giant sand-dwelling creatures native to Arrakis, essential to the production of melange.  Called Shai-Hulud by the Fremen and worshipped as deities."
+    },
+    {
+        "name": "Sapho",
+        "description": "High-energy liquid extracted from barrier roots of Ecaz, commonly used by Mentats to amplify their mental powers. Users developed deep ruby stains on mouth and lips."
+    },
+    {
+        "name": "Sardaukar",
+        "description": "Ferocious soldier-fanatics of the Padishah Emperors, later disbanded by Leto II."
+    },
+    {
+        "name": "Sareer",
+        "description": ""
+    },
+    {
+        "name": "Sarfa",
+        "description": "the act of turning away from God"
+    },
+    {
+        "name": "Sayyadina",
+        "description": "Fremen tribal-priestesses, especially Acolytes and candidates for Fremen Reverend Mother."
+    },
+    {
+        "name": "The Scattering",
+        "description": "Event after the reign of Leto II in which billions of people left the settled worlds of the Old Empire, striking off into unknown space."
+    },
+    {
+        "name": "Schlag",
+        "description": ""
+    },
+    {
+        "name": "Secher Nbiw",
+        "description": "The Golden Path"
+    },
+    {
+        "name": "Second moon",
+        "description": ""
+    },
+    {
+        "name": "Selamlik",
+        "description": ""
+    },
+    {
+        "name": "Semboule",
+        "description": "possibly a placename on Sembu, where the Semboule treaty was signed."
+    },
+    {
+        "name": "Sembu",
+        "description": "planet conquered during Muad'Dib's Jihad."
+    },
+    {
+        "name": "Semuta",
+        "description": "Second narcotic derivative (by crystal extraction) from the burned residue of elacca wood from Ecaz.  The effect (described as timeless, sustained ecstasy) was elicited by certain atonal vibrations referred to as semuta music."
+    },
+    {
+        "name": "Sennacherib",
+        "description": "an ancient King of Assyria.He conquered or raided the priestesses of Jowf."
+    },
+    {
+        "name": "Sensiform floater",
+        "description": ""
+    },
+    {
+        "name": "Sermon",
+        "description": "a preacher's public oration on religious matters"
+    },
+    {
+        "name": "Servitor",
+        "description": ""
+    },
+    {
+        "name": "Servo-control",
+        "description": ""
+    },
+    {
+        "name": "Servo-stimulator",
+        "description": ""
+    },
+    {
+        "name": "Servo-transmitter",
+        "description": ""
+    },
+    {
+        "name": "Servok",
+        "description": ""
+    },
+    {
+        "name": "Shaitan",
+        "description": "Another name of sandworms of Arrakis which means Satan or Evil one."
+    },
+    {
+        "name": "Shai-Hulud",
+        "description": "Fremen name for the sandworms of Arrakis."
+    },
+    {
+        "name": "Shere",
+        "description": "Significant presence of this substance in the body blocked the use of an Ixian probe."
+    },
+    {
+        "name": "Shigawire",
+        "description": "Metal extrusion of a ground vine (Narvi narviium) grown only on Salusa Secundus and III Delta Kaising, noted for extreme tensile strength and used as a recording medium (among other things)."
+    },
+    {
+        "name": "Shadout",
+        "description": ""
+    },
+    {
+        "name": "Shari-a",
+        "description": "Fremen believe in religious ritual."
+    },
+    {
+        "name": "Shield,defensive",
+        "description": ""
+    },
+    {
+        "name": "Shieldwall",
+        "description": ""
+    },
+    {
+        "name": "Shigawire",
+        "description": ""
+    },
+    {
+        "name": "Shrine of the Crysknife",
+        "description": ""
+    },
+    {
+        "name": "Shuloch",
+        "description": ""
+    },
+    {
+        "name": "Siaynoq",
+        "description": "God Emperor's greatest ritual, sharing moment with his Fish Speakers, performed every ten years in the Festival City of Onn. In Heretics of Dune, 1500 years after the time of God Emperor, become a ritual dance in the City of Keen."
+    },
+    {
+        "name": "Sietch",
+        "description": "Cave warren inhabited by a Fremen tribal community."
+    },
+    {
+        "name": "Sietch Abbir",
+        "description": ""
+    },
+    {
+        "name": "Sietch Attendant",
+        "description": ""
+    },
+    {
+        "name": "Sietch orgy (or sietch tau orgy)",
+        "description": "Fremen ritual of unrestrained sexual indulgence which takes place after a Reverend Mother shares the changed Water of Life with her community."
+    },
+    {
+        "name": "Sietch school",
+        "description": ""
+    },
+    {
+        "name": "Sihaya",
+        "description": "A landscape of Sand-dunes on Arrakis, the name of the Recording Angel who interrogates the newly dead.Also Chani Kynes intimate name by Paul Atreides."
+    },
+    {
+        "name": "Silver-blade",
+        "description": ""
+    },
+    {
+        "name": "Since Syndrome",
+        "description": ""
+    },
+    {
+        "name": "Singlesuit",
+        "description": ""
+    },
+    {
+        "name": "Sink",
+        "description": ""
+    },
+    {
+        "name": "Sinkchart",
+        "description": ""
+    },
+    {
+        "name": "Sirat",
+        "description": "the passage in the O.C. Bible that describes human life as a journey across a narrow bridge (the Sirat) with “Paradise on my right, Hell on my left, and the angel of death behind."
+    },
+    {
+        "name": "Sirra",
+        "description": ""
+    },
+    {
+        "name": "Slig",
+        "description": "Livestock animal, hybrid of a large slug and a pig, bioengineered by the Bene Tleilax; To many the tender meat is a delicacy, though most consider the animal itself detestful."
+    },
+    {
+        "name": "Slip-tip",
+        "description": ""
+    },
+    {
+        "name": "Solido",
+        "description": "Three-dimensional image generated from a solido projector using 360-degree reference signals imprinted on a shigawire reel."
+    },
+    {
+        "name": "Snooper, poison",
+        "description": ""
+    },
+    {
+        "name": "Solari",
+        "description": ""
+    },
+    {
+        "name": "Sondagi",
+        "description": ""
+    },
+    {
+        "name": "Soo-soo sook!",
+        "description": ""
+    },
+    {
+        "name": "Soostone",
+        "description": "Valuable iridescent gem produced on Buzzell by the abraded carapaces of monoped sea creatures called Cholisters, much in the manner of pearls on Old Earth."
+    },
+    {
+        "name": "Spacing Guild",
+        "description": "Powerful organization which ad a monopoly on space travel and transport due to their Navigators."
+    },
+    {
+        "name": "Spice",
+        "description": ""
+    },
+    {
+        "name": "Spice agony",
+        "description": "Fremen version of the ritual used by the Bene Gesserit to create Reverend Mothers, using the Water of Life instead of melange."
+    },
+    {
+        "name": "Spice beer",
+        "description": ""
+    },
+    {
+        "name": "Spicebisquit",
+        "description": ""
+    },
+    {
+        "name": "Spiceblow",
+        "description": ""
+    },
+    {
+        "name": "Spicebread",
+        "description": ""
+    },
+    {
+        "name": "Spice cloth",
+        "description": ""
+    },
+    {
+        "name": "Spice coffee",
+        "description": ""
+    },
+    {
+        "name": "Spice crawler",
+        "description": ""
+    },
+    {
+        "name": "Spice driver",
+        "description": ""
+    },
+    {
+        "name": "Spice fabrics",
+        "description": ""
+    },
+    {
+        "name": "Spice factory",
+        "description": ""
+    },
+    {
+        "name": "Spice-fiber",
+        "description": ""
+    },
+    {
+        "name": "Spice hamper",
+        "description": ""
+    },
+    {
+        "name": "Spice hunter",
+        "description": ""
+    },
+    {
+        "name": "Spice lamo",
+        "description": ""
+    },
+    {
+        "name": "Spice liquor",
+        "description": ""
+    },
+    {
+        "name": "Spice Melange",
+        "description": "Drug that was essential to space travel and extended life, and therefore to the survival of the universe."
+    },
+    {
+        "name": "Spice oil",
+        "description": ""
+    },
+    {
+        "name": "Spice paper",
+        "description": ""
+    },
+    {
+        "name": "Spice plastic",
+        "description": ""
+    },
+    {
+        "name": "Spice essence",
+        "description": "Water of Life that has been changed to non-toxic form by Reverend Mother."
+    },
+    {
+        "name": "Spice scout",
+        "description": ""
+    },
+    {
+        "name": "Spice tau",
+        "description": ""
+    },
+    {
+        "name": "Spice trance",
+        "description": ""
+    },
+    {
+        "name": "Sonics",
+        "description": "Military units or technology for detection of underground facilities."
+    },
+    {
+        "name": "Splintered Rock",
+        "description": ""
+    },
+    {
+        "name": "Spotter control",
+        "description": ""
+    },
+    {
+        "name": "Starflower",
+        "description": ""
+    },
+    {
+        "name": "Star Jewels",
+        "description": ""
+    },
+    {
+        "name": "Steersman",
+        "description": "Title given to Guild Navigators.Also the steersman of a Sandworm among the Fremen."
+    },
+    {
+        "name": "Stillsuit",
+        "description": "Body-enclosing garment of Fremen design which performed the functions of heat dissipation and filtering bodily wastes, as well as retaining and reclaiming moisture."
+    },
+    {
+        "name": "Stilltent",
+        "description": ""
+    },
+    {
+        "name": "Stolen Journals",
+        "description": ""
+    },
+    {
+        "name": "Stone burner",
+        "description": "Atomic weapon, the explosion and radiation of which could be precisely adjusted depending on the desired effect."
+    },
+    {
+        "name": "Stunner",
+        "description": ""
+    },
+    {
+        "name": "Stun-grenade",
+        "description": ""
+    },
+    {
+        "name": "Stunclub",
+        "description": ""
+    },
+    {
+        "name": "Sub-Bashar",
+        "description": ""
+    },
+    {
+        "name": "Subakh ul kuhar?",
+        "description": ""
+    },
+    {
+        "name": "Subakh un nar?",
+        "description": ""
+    },
+    {
+        "name": "Sufi",
+        "description": "Ancient Religious sect. Thought to be long lost but still survive in the form of part of the Great Belief."
+    },
+    {
+        "name": "Suk Inner School",
+        "description": "Prestigious medical school whose Imperial Conditioning banned the taking of human life; initiates were marked by a diamond tattoo on the forehead and wore a silver Suk ring in their hair."
+    },
+    {
+        "name": "Suks",
+        "description": "Imperial mercantile settlements and the culture of imperial traders."
+    },
+    {
+        "name": "Suk paper",
+        "description": ""
+    },
+    {
+        "name": "Sukkar",
+        "description": "most likely a place-name on Arrakis."
+    },
+    {
+        "name": "Suspensor",
+        "description": "Any of a number of 'hovering' devices which utilized the secondary (low-drain) phase of a Holtzman field generator to nullify gravity within certain limits prescribed by relative mass and energy consumption."
+    },
+    {
+        "name": "Tabrite",
+        "description": ""
+    },
+    {
+        "name": "Tabur",
+        "description": ""
+    },
+    {
+        "name": "Tahaddi al-burhan",
+        "description": "an ultimate test from which there can be no appeal (usually because it brings death or destruction)."
+    },
+    {
+        "name": "Tahaddi challenge",
+        "description": "a Fremen challenge to mortal combat, usually over some primal issue, such as the desire for another man's wife, or if honour was insulted, or if leadership was challenged."
+    },
+    {
+        "name": "Taif",
+        "description": "among the Fremen on Arrakis, a company of men held together by mutual self-interest."
+    },
+    {
+        "name": "Tanzerouft",
+        "description": ""
+    },
+    {
+        "name": "Taquiyya",
+        "description": "the practice of concealing the identity when revealing it might be harmful.Known among the Fremen as \"Ketman\"."
+    },
+    {
+        "name": "Taqwa",
+        "description": "Fremen term implying \"Strong belief.Piety.Hope\". Stilgar tells Lady Jessica \"'What could the Harkonnens give us? Our freedom? Hah! No, you are the taqwa, that which buys us more than all the spice in the Harkonnen coffers.'\""
+    },
+    {
+        "name": "Tau",
+        "description": ""
+    },
+    {
+        "name": "Tau ceremony",
+        "description": "see:Spice orgy"
+    },
+    {
+        "name": "T-Probe",
+        "description": "Device used to capture the thoughts of a person (living or dead) for analysis; unlike an Ixian probe it could not be blocked by the substance shere."
+    },
+    {
+        "name": "Tachyon net  (or tachyon web)",
+        "description": "Technology (involving faster-than-light tachyon particles) used by Daniel and Marty in their attempt to track and capture the no-ship Ithaca."
+    },
+    {
+        "name": "Temple Guards",
+        "description": ""
+    },
+    {
+        "name": "Temple priests",
+        "description": ""
+    },
+    {
+        "name": "Test-mashad",
+        "description": ""
+    },
+    {
+        "name": "Thinking Machines",
+        "description": "Intelligent and sentient machines, created by humans, who enslaved much of humanity and eventually incited the Butlerian Jihad."
+    },
+    {
+        "name": "Thorse",
+        "description": ""
+    },
+    {
+        "name": "Thumper",
+        "description": "Short stake with a spring-driven clapper at one end, placed in the sand to 'call' sandworms."
+    },
+    {
+        "name": "Tidal dust basin",
+        "description": ""
+    },
+    {
+        "name": "Titan",
+        "description": "One of several ancient dictators whose brains were transplanted into fearsome, weaponized machine bodies to achieve immortality."
+    },
+    {
+        "name": "Tlulax",
+        "description": ""
+    },
+    {
+        "name": "Tleilaxu Vat",
+        "description": ""
+    },
+    {
+        "name": "Torquemada",
+        "description": ""
+    },
+    {
+        "name": "Tunyon vine",
+        "description": ""
+    },
+    {
+        "name": "Tuono",
+        "description": ""
+    },
+    {
+        "name": "Training",
+        "description": ""
+    },
+    {
+        "name": "Training male (Bene Gesserit)",
+        "description": "Males, conditioned by Bene Gesserit to perform sexual acts without expression of their feeling, used to train Bene Gesserit acolytes in sexual training."
+    },
+    {
+        "name": "Troop carrier",
+        "description": ""
+    },
+    {
+        "name": "Trooper, house",
+        "description": ""
+    },
+    {
+        "name": "Truthsayer",
+        "description": "Bene Gesserit Reverend Mother trained to detect insincerity or falsehood. Naturally, anyone can be Truthsayer."
+    },
+    {
+        "name": "Truthtrance",
+        "description": ""
+    },
+    {
+        "name": "Tube-lift",
+        "description": ""
+    },
+    {
+        "name": "Tupile",
+        "description": ""
+    },
+    {
+        "name": "T-P",
+        "description": ""
+    },
+    {
+        "name": "Ulema",
+        "description": "a doctor of theology in Zensunni religion"
+    },
+    {
+        "name": "Umma",
+        "description": "One of the brotherhood of prophets; a term of scorn in the Corrino Imperium, meaning any \"wild\" person given to fanatical prediction.Also a personal revelation often experienced by a Fremen on Hajj."
+    },
+    {
+        "name": "Uroshnor",
+        "description": "the most common autosuggestive cue word implanted by the Bene Gesserit,\"itself empty of meaning, but which, when spoken, triggered a state of immobilization"
+    },
+    {
+        "name": "Usul",
+        "description": "a Fremen word meaning \"the strength of the base of the pillar\""
+    },
+    {
+        "name": "Varota",
+        "description": ""
+    },
+    {
+        "name": "Verite",
+        "description": "Will-destroying narcotic from Ecaz that rendered a person incapable of falsehood."
+    },
+    {
+        "name": "Voice",
+        "description": "Training that allowed the Bene Gesserit to control others merely by selected tone shadings of the voice."
+    },
+    {
+        "name": "Wadquiyas",
+        "description": "if one could force or convince a stranger or enemy to drink of his blood, he became Wadquiyaswith the tribe: joined to them as one of their own, and safe from having his water taken unless he offended the tribe. Because of this custom, no Fremen would ever attempt to wound an enemy in a fight by biting, no matter how a certain victory would grant to him)."
+    },
+    {
+        "name": "Wali",
+        "description": "the name the Fremen give to an untried youth."
+    },
+    {
+        "name": "Wallach IX",
+        "description": ""
+    },
+    {
+        "name": "Wallport",
+        "description": ""
+    },
+    {
+        "name": "War of Assassins",
+        "description": "Regulated form of conflict between noble Houses."
+    },
+    {
+        "name": "Warrior-troubadour",
+        "description": ""
+    },
+    {
+        "name": "Water Agony",
+        "description": ""
+    },
+    {
+        "name": "Water burden",
+        "description": ""
+    },
+    {
+        "name": "Watercounter",
+        "description": ""
+    },
+    {
+        "name": "Water discipline",
+        "description": ""
+    },
+    {
+        "name": "Water of Life",
+        "description": "Toxic liquid exhalation of a drowning sandworm, used by Fremen Reverend Mothers in the spice agony."
+    },
+    {
+        "name": "water-death",
+        "description": ""
+    },
+    {
+        "name": "Waterman",
+        "description": ""
+    },
+    {
+        "name": "Watermaster",
+        "description": ""
+    },
+    {
+        "name": "Water ring",
+        "description": "Metal rings wore by Fremen women to indicate their household's possessed water."
+    },
+    {
+        "name": "Water trap",
+        "description": ""
+    },
+    {
+        "name": "Water tube",
+        "description": ""
+    },
+    {
+        "name": "Way, bene gesserit",
+        "description": ""
+    },
+    {
+        "name": "Weather control",
+        "description": ""
+    },
+    {
+        "name": "Weather scanner",
+        "description": ""
+    },
+    {
+        "name": "Weirding",
+        "description": ""
+    },
+    {
+        "name": "Weirding Way",
+        "description": "Specialized martial art component of Bene Gesserit prana-bindu practices."
+    },
+    {
+        "name": "Welbeck Abridgment",
+        "description": ""
+    },
+    {
+        "name": "Windowplaz (or plaz)",
+        "description": "Synthetic glass, used for windows (especially in aircraft and spaceships) due to its superior strength."
+    },
+    {
+        "name": "Wind Pass",
+        "description": ""
+    },
+    {
+        "name": "Wind trap",
+        "description": "A Facility used on Arrakis to trap moisture from the air, usually conceal in the warren rock."
+    },
+    {
+        "name": "wrist seal",
+        "description": ""
+    },
+    {
+        "name": "Xuttah",
+        "description": ""
+    },
+    {
+        "name": "Yaghist",
+        "description": ""
+    },
+    {
+        "name": "Yali",
+        "description": "A Fremen's personal quarters within the sietch."
+    },
+    {
+        "name": "Ya Hya Chouhada",
+        "description": "A rallying cry for the Fremen troops - \"long live the fighters!\""
+    },
+    {
+        "name": "Ya!Ya!Yawm!",
+        "description": ""
+    },
+    {
+        "name": "Yellow of mourning",
+        "description": ""
+    },
+    {
+        "name": "Zabulon",
+        "description": ""
+    },
+    {
+        "name": "Zaha",
+        "description": "the morning siesta on Arrakis."
+    },
+    {
+        "name": "Zanadiq",
+        "description": "a fremen curse"
+    },
+    {
+        "name": "Zarr Sadus",
+        "description": ""
+    },
+    {
+        "name": "Ze'eb",
+        "description": "the wolf, as in the proverb \"to know the difference between Ze'eb and Ke'leb\".A Ze'eb is a person with true power and as such able to abuse it."
+    },
+    {
+        "name": "Zensunni",
+        "description": "Ancient religious sect, ancestors of the Fremen."
+    },
+    {
+        "name": "Zensunni codex",
+        "description": ""
+    },
+    {
+        "name": "Zombie-katrundo",
+        "description": ""
+    }
+]
