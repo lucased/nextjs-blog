@@ -1,10 +1,13 @@
 import { useRouter } from "next/router";
-import { useMutation, queryCache } from "react-query";
-import { updateTerm } from "../../lib/api";
+import { useMutation, queryCache, useQuery } from "react-query";
+import { updateTerm, getTerm } from "../../lib/api";
 import TermForm from "./TermForm";
 
-const EditTerm = ({ data }) => {
+const EditTerm = () => {
   const router = useRouter();
+  const { id } = router.query;
+
+  const { isError, isLoading, error, data } = useQuery(["term", id], getTerm);
   const [mutate, { status }] = useMutation(updateTerm, {
     onSuccess: () => {
       queryCache.invalidateQueries("terms");
@@ -23,6 +26,10 @@ const EditTerm = ({ data }) => {
       }
     }
   };
+
+  if (isLoading) {
+    return <div>Loading...</div>;
+  }
 
   return (
     <TermForm

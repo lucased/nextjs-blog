@@ -11,7 +11,7 @@ const TermTable = () => {
     isLoading,
     isError,
     data,
-  } = useQuery(["terms", { limit: 10, page: 0 }], getTerms);
+  } = useQuery(["terms", { limit: 0, page: 0 }], getTerms);
   if (isLoading) return <div>Loading</div>;
   if (isError) return <div>Error loading terms</div>;
   return (

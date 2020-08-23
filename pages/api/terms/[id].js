@@ -1,11 +1,16 @@
 import nc from "next-connect";
-import middleware from "../../../middleware/database";
+import { getSession } from "next-auth/client";
+import database from "../../../middleware/database";
 import { ObjectId } from "mongodb";
 
 const handler = nc();
-handler.use(middleware);
+handler.use(database);
 
 handler.get(async (req, res) => {
+  const session = await getSession({ req });
+  if (!session) {
+    return res.status(401).send({ message: "not authenticated" });
+  }
   const { query } = req;
 
   const o_id = new ObjectId(query.id);
@@ -19,6 +24,11 @@ handler.get(async (req, res) => {
 });
 
 handler.patch(async (req, res) => {
+  const session = await getSession({ req });
+  if (!session) {
+    return res.status(401).send({ message: "not authenticated" });
+  }
+
   const {
     query: { id },
     body,
@@ -40,6 +50,11 @@ handler.patch(async (req, res) => {
 });
 
 handler.delete(async (req, res) => {
+  const session = await getSession({ req });
+  if (!session) {
+    return res.status(401).send({ message: "not authenticated" });
+  }
+
   const {
     query: { id },
   } = req;

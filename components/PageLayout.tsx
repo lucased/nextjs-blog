@@ -7,6 +7,7 @@ const PageLayout = ({ children, width = 600 }) => {
       sx={{
         justifyContent: "center",
         alignItems: "center",
+        // height: '100vh'
       }}
     >
       <Box
