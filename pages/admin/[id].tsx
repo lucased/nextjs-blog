@@ -6,11 +6,11 @@ import Authenticated from "../../components/Auth/Authenticated";
 
 const EditTermContainer = () => {
   return (
-    <Authenticated>
+    // <Authenticated>
       <PageLayout width={900}>
         <EditTerm />
       </PageLayout>
-    </Authenticated>
+    // </Authenticated>
   );
 };
 

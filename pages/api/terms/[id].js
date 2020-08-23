@@ -1,10 +1,10 @@
 import nc from "next-connect";
 import { getSession } from "next-auth/client";
-import database from "../../../middleware/database";
+import middleware from "../../../middleware";
 import { ObjectId } from "mongodb";
 
 const handler = nc();
-handler.use(database);
+handler.use(middleware);
 
 handler.get(async (req, res) => {
   const session = await getSession({ req });
