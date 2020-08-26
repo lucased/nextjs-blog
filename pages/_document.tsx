@@ -8,6 +8,7 @@ export default class extends Document {
         <Head />
         <body>
           <InitializeColorMode />
+          <div id="modal"></div>
           <Main />
           <NextScript />
         </body>

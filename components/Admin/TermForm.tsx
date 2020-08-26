@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui";
 import { useState, useEffect } from "react";
-import Button from "../Elements/Buttons";
+import Button from "../Elements/Button";
 
 const Input = (props) => {
   return (

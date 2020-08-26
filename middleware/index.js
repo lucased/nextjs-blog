@@ -3,8 +3,6 @@ import database from './database';
 import cors from './cors';
 
 const middleware = ns();
-middleware.use(cors);
-middleware.use(database);
-
+middleware.use(cors).use(database)
 
 export default middleware;

@@ -2,16 +2,51 @@
 import { jsx } from "theme-ui";
 
 import Link from "next/link";
-import { useQuery } from "react-query";
-import { getTerms } from "../../lib/api";
-import Button from "../Elements/Buttons";
+import { useQuery, useMutation, queryCache } from "react-query";
+import { getTerms, deleteTerm } from "../../lib/api";
+import Button from "../Elements/Button";
+import { useModal } from "../Elements/Modal";
+
+const ConfirmModal = ({ onClose, onConfirm, title }) => {
+  return (
+    <div
+      sx={{
+        padding: 4,
+        maxWidth: 400,
+        maxHeight: 400,
+        backgroundColor: "background",
+        border: (theme) => `1px solid ${theme.colors.secondary}`,
+        display: "flex",
+        flexDirection: "column",
+      }}
+    >
+      <h3 sx={{ marginTop: 0 }}>{title}</h3>
+      <div>
+        <Button solid sx={{ width: "50%" }} onClick={onClose}>
+          No
+        </Button>
+        <Button sx={{ width: "50%" }} onClick={onConfirm}>
+          Yes
+        </Button>
+      </div>
+    </div>
+  );
+};
 
 const TermTable = () => {
-  const {
-    isLoading,
-    isError,
-    data,
-  } = useQuery(["terms", { limit: 0, page: 0 }], getTerms);
+  const { setModal, unSetModal } = useModal();
+  const { isLoading, isError, data } = useQuery(
+    ["terms", { limit: 0, page: 0 }],
+    getTerms
+  );
+
+  const [mutate, { status }] = useMutation(deleteTerm, {
+    onSuccess: () => {
+      queryCache.invalidateQueries("terms");
+      unSetModal();
+    },
+  });
+
   if (isLoading) return <div>Loading</div>;
   if (isError) return <div>Error loading terms</div>;
   return (
@@ -45,6 +80,15 @@ const TermTable = () => {
                     </a>
                   </Link>
                   <Button
+                    onClick={() =>
+                      setModal(
+                        <ConfirmModal
+                          title="Are you sure?"
+                          onClose={unSetModal}
+                          onConfirm={() => mutate(term._id)}
+                        />
+                      )
+                    }
                     sx={{
                       borderLeft: "none",
                     }}

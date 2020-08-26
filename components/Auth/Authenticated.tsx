@@ -3,7 +3,7 @@ import { jsx } from "theme-ui";
 
 import { signIn, signOut, useSession } from "next-auth/client";
 import PageLayout from "../../components/PageLayout";
-import Button from "../../components/Elements/Buttons";
+import Button from "../Elements/Button";
 
 const Wrapper = ({ children }) => {
   return (
