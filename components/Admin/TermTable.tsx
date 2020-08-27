@@ -7,7 +7,7 @@ import { getTerms, deleteTerm } from "../../lib/api";
 import Button from "../Elements/Button";
 import { useModal } from "../Elements/Modal";
 
-const ConfirmModal = ({ onClose, onConfirm, title }) => {
+const ConfirmModal = ({ onClose, onConfirm, title, isDeleting }) => {
   return (
     <div
       sx={{
@@ -25,7 +25,11 @@ const ConfirmModal = ({ onClose, onConfirm, title }) => {
         <Button solid sx={{ width: "50%" }} onClick={onClose}>
           No
         </Button>
-        <Button sx={{ width: "50%" }} onClick={onConfirm}>
+        <Button
+          sx={{ width: "50%" }}
+          isLoading={isDeleting}
+          onClick={onConfirm}
+        >
           Yes
         </Button>
       </div>
@@ -40,7 +44,7 @@ const TermTable = () => {
     getTerms
   );
 
-  const [mutate, { status }] = useMutation(deleteTerm, {
+  const [mutate, { isLoading: isDeleting }] = useMutation(deleteTerm, {
     onSuccess: () => {
       queryCache.invalidateQueries("terms");
       unSetModal();
@@ -86,6 +90,7 @@ const TermTable = () => {
                           title="Are you sure?"
                           onClose={unSetModal}
                           onConfirm={() => mutate(term._id)}
+                          isDeleting={isDeleting}
                         />
                       )
                     }

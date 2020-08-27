@@ -1,7 +1,7 @@
 /** @jsx jsx */
-import { jsx } from "theme-ui";
+import { jsx, Spinner } from "theme-ui";
 
-const Button = ({ children, solid = false, ...props }) => {
+const Button = ({ children, isLoading = false, solid = false, ...props }) => {
   return (
     <button
       {...props}
@@ -18,7 +18,7 @@ const Button = ({ children, solid = false, ...props }) => {
         },
       }}
     >
-      {children}
+      {isLoading ? <Spinner size={12}/> : children}
     </button>
   );
 };
