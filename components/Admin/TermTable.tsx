@@ -2,54 +2,16 @@
 import { jsx } from "theme-ui";
 
 import Link from "next/link";
-import { useQuery, useMutation, queryCache } from "react-query";
-import { getTerms, deleteTerm } from "../../lib/api";
+import { useQuery } from "react-query";
+import { getTerms } from "../../lib/api";
 import Button from "../Elements/Button";
-import { useModal } from "../Elements/Modal";
-
-const ConfirmModal = ({ onClose, onConfirm, title, isDeleting }) => {
-  return (
-    <div
-      sx={{
-        padding: 4,
-        maxWidth: 400,
-        maxHeight: 400,
-        backgroundColor: "background",
-        border: (theme) => `1px solid ${theme.colors.secondary}`,
-        display: "flex",
-        flexDirection: "column",
-      }}
-    >
-      <h3 sx={{ marginTop: 0 }}>{title}</h3>
-      <div>
-        <Button solid sx={{ width: "50%" }} onClick={onClose}>
-          No
-        </Button>
-        <Button
-          sx={{ width: "50%" }}
-          isLoading={isDeleting}
-          onClick={onConfirm}
-        >
-          Yes
-        </Button>
-      </div>
-    </div>
-  );
-};
+import DeleteTerm from "./DeleteTerm";
 
 const TermTable = () => {
-  const { setModal, unSetModal } = useModal();
   const { isLoading, isError, data } = useQuery(
     ["terms", { limit: 0, page: 0 }],
     getTerms
   );
-
-  const [mutate, { isLoading: isDeleting }] = useMutation(deleteTerm, {
-    onSuccess: () => {
-      queryCache.invalidateQueries("terms");
-      unSetModal();
-    },
-  });
 
   if (isLoading) return <div>Loading</div>;
   if (isError) return <div>Error loading terms</div>;
@@ -83,23 +45,7 @@ const TermTable = () => {
                       <Button>Edit</Button>
                     </a>
                   </Link>
-                  <Button
-                    onClick={() =>
-                      setModal(
-                        <ConfirmModal
-                          title="Are you sure?"
-                          onClose={unSetModal}
-                          onConfirm={() => mutate(term._id)}
-                          isDeleting={isDeleting}
-                        />
-                      )
-                    }
-                    sx={{
-                      borderLeft: "none",
-                    }}
-                  >
-                    Delete
-                  </Button>
+                  <DeleteTerm id={term._id} />
                 </td>
               </tr>
             );

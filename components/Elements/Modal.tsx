@@ -1,9 +1,8 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui";
 
-import React, { useState, useEffect, useContext, useCallback } from "react";
+import React, { useState, useContext, useCallback } from "react";
 import { createPortal } from "react-dom";
-import Button from "./Button";
 
 const ModalContext = React.createContext(null);
 
@@ -28,7 +27,7 @@ const ModelWrapper = (props) => {
   );
 };
 
-const Modal = ({ modal, unSetModel }) => {
+const Modal = ({ modal }) => {
   return createPortal(
     <ModelWrapper>{modal}</ModelWrapper>,
     document.querySelector("#modal")
@@ -44,7 +43,7 @@ const ModalProvider = (props) => {
   return (
     <ModalContext.Provider value={{ unSetModal, setModal }} {...props}>
       {props.children}
-      {modal && <Modal modal={modal} unSetModel={unSetModal} />}
+      {modal && <Modal modal={modal} />}
     </ModalContext.Provider>
   );
 };

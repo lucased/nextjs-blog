@@ -11,8 +11,11 @@ const SearchInput = ({ setSearchTerm }) => {
         flexDirection: "row",
       }}
     >
-      <label sx={{ display: "none" }}>Seach term</label>
+      <label htmlFor="term-search" sx={{ display: "none" }}>
+        Seach term
+      </label>
       <input
+        id="term-search"
         sx={{
           variant: "styles.input",
         }}
