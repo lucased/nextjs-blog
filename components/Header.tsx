@@ -5,9 +5,9 @@ const Header = () => {
   return (
     <Flex
       sx={{
-        flexDirection: 'column',
+        flexDirection: "column",
         justifyContent: "center",
-        alignItems: 'center'
+        alignItems: "center",
       }}
     >
       <div
@@ -20,6 +20,7 @@ const Header = () => {
       <p
         sx={{
           variant: "styles.header.description",
+          textAlign: "center",
         }}
       >
         Terminology of the Imperium

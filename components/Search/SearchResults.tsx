@@ -8,17 +8,17 @@ const Result = ({ result }) => {
       sx={{
         fontSize: [2, 3],
         fontWeight: 100,
-        color: "#b9a170",
+        color: "primary",
         letterSpacing: "1.5px",
       }}
     >
       <span
         sx={{
           display: "inline-block",
-          fontFamily: "heading",
-          color: "primary",
-          fontSize: 4,
-          fontWeight: 4,
+          // fontFamily: "heading",
+          color: "secondary",
+          fontSize: [3],
+          fontWeight: 600,
         }}
       >
         {result.name}
