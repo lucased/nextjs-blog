@@ -8,6 +8,7 @@ import { getTerms } from "../../lib/api";
 import SearchInput from "./SearchInput";
 import SearchResults from "./SearchResults";
 import Loading from "./Loading";
+import NoResult from "./NoResults";
 
 const Search = () => {
   const [searchTerm, setSearchTerm] = useState(null);
@@ -22,8 +23,10 @@ const Search = () => {
       <SearchInput setSearchTerm={debounceSetSearchTerm} />
       {isLoading ? (
         <Loading />
-      ) : (
+      ) : data.results.length ? (
         <SearchResults data={data} />
+      ) : (
+        <NoResult />
       )}
     </>
   );
