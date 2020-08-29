@@ -60,9 +60,7 @@ handler.delete(async (req, res) => {
   if (result.deletedCount !== 1)
     return res.status(400).send({ message: "Did not delete any documents" });
 
-  setTimeout(() => {
-    res.status(204).send({ message: "ok" });
-  }, 2000);
+  res.status(204).send({ message: "ok" });
 });
 
 export default handler;

@@ -4,43 +4,44 @@ import SearchIcon from "./SearchIcon";
 
 const SearchInput = ({ setSearchTerm }) => {
   return (
-    <Box
-      mt={4}
-      sx={{
-        display: "flex",
-        flexDirection: "row",
-      }}
-    >
-      <label htmlFor="term-search" sx={{ display: "none" }}>
-        Seach term
+    <div sx={{ mt: 4 }}>
+      <label sx={{ color: "background" }} htmlFor="term-search">
+        Seatch for a term
       </label>
-      <input
-        id="term-search"
-        sx={{
-          variant: "styles.input",
-        }}
-        type="text"
-        placeholder="Search..."
-        onChange={(e) => setSearchTerm(e.target.value)}
-      />
       <Box
         sx={{
           display: "flex",
-          justifyContent: "center",
-          alignItems: "center",
-          paddingX: [3, 4],
-          paddingY: [2, 3],
-          backgroundColor: "secondary",
-          borderTopRightRadius: "lg",
-          borderBottomRightRadius: "lg",
-          "&:hover": {
-            cursor: "pointer",
-          },
+          flexDirection: "row",
         }}
       >
-        <SearchIcon />
+        <input
+          id="term-search"
+          sx={{
+            variant: "styles.input",
+          }}
+          type="text"
+          placeholder="Search..."
+          onChange={(e) => setSearchTerm(e.target.value)}
+        />
+        <Box
+          sx={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+            paddingX: [3, 4],
+            paddingY: [2, 3],
+            backgroundColor: "secondary",
+            borderTopRightRadius: "lg",
+            borderBottomRightRadius: "lg",
+            "&:hover": {
+              cursor: "pointer",
+            },
+          }}
+        >
+          <SearchIcon />
+        </Box>
       </Box>
-    </Box>
+    </div>
   );
 };
 
